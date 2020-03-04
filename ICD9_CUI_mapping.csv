@@ -1,0 +1,1793 @@
+,ICD9_Code,CUI,name
+0,10.42,C0176199,Reconstruction of conjunctival cul-de-sac with free graft
+1,10.49,C0176202,Other conjunctivoplasty
+2,10.5,C0176203,Lysis of adhesions of conjunctiva and eyelid
+3,10.9,C0175568,Other operations on conjunctiva
+4,10.91,C0197180,Subconjunctival injection
+5,11.00,,
+6,11.39,C0176209,Other excision of pterygium
+7,11.49,C0176212,Other removal or destruction of corneal lesion
+8,11.52,C0197453,Repair of postoperative wound dehiscence of cornea
+9,11.63,C0197444,Penetrating keratoplasty with autograft
+10,11.64,C0029703,Other penetrating keratoplasty
+11,11.73,C0176217,Keratoprosthesis
+12,110.1,C4082762,Dermatophytosis of nail
+13,112.0,C0006849,Candidiasis of mouth
+14,112.5,C0153252,Disseminated candidiasis
+15,112.84,C0239295,Candidal esophagitis
+16,114.6,,
+17,115.90,C0677640,"Histoplasmosis, unspecified, without mention of manifestation"
+18,117.5,C0010414,Cryptococcosis
+19,12.14,C0176222,Other iridectomy
+20,12.32,C0176225,Lysis of other anterior synechiae
+21,12.33,C0197652,Lysis of posterior synechiae
+22,12.4,C0176227,Excision or destruction of lesion of iris and ciliary body
+23,12.41,C0197646,"Destruction of lesion of iris, nonexcisional"
+24,12.42,C0197546,Excision of lesion of iris
+25,12.64,C3263686,Trabeculectomy ab externo
+26,12.69,C0176230,Other scleral fistulizing procedure
+27,12.89,C0176238,Other operations on sclera
+28,12.91,C0197511,Therapeutic evacuation of anterior chamber
+29,12.92,C0844573,Injection into anterior chamber
+30,120.4,,
+31,13.1,C0197717,Intracapsular extraction of lens
+32,13.41,C2193446,Phacoemulsification and aspiration of cataract
+33,13.42,C0176248,Mechanical phacofragmentation and aspiration of cataract by posterior route
+34,13.43,C0176249,Mechanical phacofragmentation and other aspiration of cataract
+35,13.51,C0197736,Extracapsular extraction of lens by temporal inferior route
+36,13.59,C0175572,Other extracapsular extraction of lens
+37,13.71,C0176254,"Insertion of intraocular lens prosthesis at time of cataract extraction, one-stage"
+38,13.9,C0176256,Other operations on lens
+39,135,C0036202,Sarcoidosis
+40,138,C0362050,Late effects of acute poliomyelitis
+41,14.24,C0197923,Destruction of chorioretinal lesion by laser photocoagulation
+42,14.32,C0176265,Repair of retinal tear by cryotherapy
+43,14.34,C0176266,Repair of retinal tear by laser photocoagulation
+44,14.41,C0587958,Scleral buckling with implant
+45,14.49,C0029732,Other scleral buckling
+46,14.52,C0197875,Repair of retinal detachment with cryotherapy
+47,14.54,C0395569,Repair of retinal detachment with laser photocoagulation
+48,14.59,C0176270,Other repair of retinal detachment
+49,14.71,C0197786,"Removal of vitreous, anterior approach"
+50,14.72,C0176276,Other removal of vitreous
+51,14.73,C0197792,Mechanical vitrectomy by anterior approach
+52,14.74,C0029666,Other mechanical vitrectomy
+53,14.75,C0395549,Injection of vitreous substitute
+54,14.79,C0841706,Other operations on vitreous
+55,14.9,C0176278,"Other operations on retina, choroid, and posterior chamber"
+56,148.1,C0153400,Malignant neoplasm of pyriform sinus
+57,153.2,C0153435,Malignant neoplasm of descending colon
+58,16.09,C0176291,Other orbitotomy
+59,16.61,C0197003,Secondary insertion of ocular implant
+60,16.62,C0197022,Revision and reinsertion of ocular implant
+61,16.72,C0197019,Removal of orbital implant
+62,16.92,C0196973,Excision of lesion of orbit
+63,17,C0175624,Other miscellaneous procedures
+64,171.2,C0153521,"Malignant neoplasm of connective and other soft tissue of upper limb, including shoulder"
+65,172.9,C0151779,"Melanoma of skin, site unspecified"
+66,173.0,C0153539,Other malignant neoplasm of skin of lip
+67,173.1,C3161363,"Other and unspecified malignant neoplasm of skin of eyelid, including canthus"
+68,173.2,C3161364,Other and unspecified malignant neoplasm of skin of ear and external auditory canal
+69,173.3,C3161365,Other and unspecified malignant neoplasm of skin of other and unspecified parts of face
+70,173.4,C3161366,Other and unspecified malignant neoplasm of scalp and skin of neck
+71,173.5,C3161367,"Other and unspecified malignant neoplasm of skin of trunk, except scrotum"
+72,173.6,C3161368,"Other and unspecified malignant neoplasm of skin of upper limb, including shoulder"
+73,173.7,C3161369,"Other and unspecified malignant neoplasm of skin of lower limb, including hip"
+74,173.8,C3161370,Other and unspecified malignant neoplasm of other specified sites of skin
+75,18.12,C0198030,Biopsy of external ear
+76,18.29,C0176317,Excision or destruction of other lesion of external ear
+77,18.31,C0198044,Radical excision of lesion of external ear
+78,18.4,C0198075,Suture of laceration of external ear
+79,18.79,C0176321,Other plastic repair of external ear
+80,185,C0376358,Malignant neoplasm of prostate
+81,188.6,C0153614,Malignant neoplasm of ureteric orifice
+82,189.0,C0494158,"Malignant neoplasm of kidney, except pelvis"
+83,189.2,C0153619,Malignant neoplasm of ureter
+84,196.0,C0153668,"Secondary and unspecified malignant neoplasm of lymph nodes of head, face, and neck"
+85,196.2,C0686655,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes
+86,197.7,C0494165,"Malignant neoplasm of liver, secondary"
+87,198.5,C0153690,Secondary malignant neoplasm of bone and bone marrow
+88,20.01,C1970956,Myringotomy with insertion of tube
+89,202.00,C0375087,"Nodular lymphoma, unspecified site, extranodal and solid organ sites"
+90,21.03,C0189064,Control of epistaxis by cauterization (and packing)
+91,21.31,C0176362,Local excision or destruction of intranasal lesion
+92,21.32,C0176363,Local excision or destruction of other lesion of nose
+93,21.5,C0188993,Submucous resection of nasal septum
+94,21.61,C0176365,Turbinectomy by diathermy or cryosurgery
+95,21.62,C0396168,Fracture of the turbinates
+96,21.69,C0176367,Other turbinectomy
+97,21.72,C0189037,Open reduction of nasal fracture
+98,21.81,C0189030,Suture of laceration of nose
+99,21.88,C0176372,Other septoplasty
+100,21.89,C0176373,Other repair and plastic operations on nose
+101,21.91,C0189071,Lysis of adhesions of nose
+102,210.0,C0153932,Benign neoplasm of lip
+103,211.2,C0153944,"Benign neoplasm of duodenum, jejunum, and ileum"
+104,211.3,C0004991,Benign neoplasm of colon
+105,211.4,C0153945,Benign neoplasm of rectum and anal canal
+106,212.0,C0153951,"Benign neoplasm of nasal cavities, middle ear, and accessory sinuses"
+107,214.1,C0153969,Lipoma of other skin and subcutaneous tissue
+108,214.4,C0153972,Lipoma of spermatic cord
+109,216.1,C0153983,"Benign neoplasm of eyelid, including canthus"
+110,216.3,C0153985,Benign neoplasm of skin of other and unspecified parts of face
+111,216.4,C0153986,Benign neoplasm of scalp and skin of neck
+112,216.5,C0153987,"Benign neoplasm of skin of trunk, except scrotum"
+113,216.6,C0153988,"Benign neoplasm of skin of upper limb, including shoulder"
+114,22.19,C0176380,Other diagnostic procedures on nasal sinuses
+115,22.2,C1384596,Intranasal antrotomy
+116,22.39,C0176382,Other external maxillary antrotomy
+117,22.41,C0189113,Frontal sinusotomy
+118,22.42,C0189146,Frontal sinusectomy
+119,22.51,C0189123,Ethmoidotomy
+120,22.52,C0189124,Sphenoidotomy
+121,22.53,C0176385,Incision of multiple nasal sinuses
+122,22.61,C0189137,Excision of lesion of maxillary sinus with Caldwell-Luc approach
+123,22.62,C0176388,Excision of lesion of maxillary sinus with other approach
+124,22.63,C0189149,Ethmoidectomy
+125,22.64,C0189156,Sphenoidectomy
+126,22.71,C0189193,Closure of nasal sinus fistula
+127,223.3,C0154017,Benign neoplasm of bladder
+128,227.1,C0154041,Benign neoplasm of parathyroid gland
+129,23,C0161874,Removal and restoration of teeth
+130,23.09,C0176392,Extraction of other tooth
+131,23.19,C0176395,Other surgical extraction of tooth
+132,23.2,C0176396,Restoration of tooth by filling
+133,23.41,C0003626,Application of crown
+134,23.49,C0176398,Other dental restoration
+135,23.70,C0035849,"Root canal, not otherwise specified"
+136,232.0,C0154074,Carcinoma in situ of skin of lip
+137,232.2,C0347139,Carcinoma in situ of skin of ear and external auditory canal
+138,232.3,C0154077,Carcinoma in situ of skin of other and unspecified parts of face
+139,232.4,C0154078,Carcinoma in situ of scalp and skin of neck
+140,232.5,C0154079,"Carcinoma in situ of skin of trunk, except scrotum"
+141,232.6,C0154080,"Carcinoma in situ of skin of upper limb, including shoulder"
+142,238.7,C0027632,Neoplasm of uncertain behavior of other lymphatic and hematopoietic tissues
+143,238.71,C0040028,Essential thrombocythemia
+144,239.2,C0154132,"Neoplasm of unspecified nature of bone, soft tissue, and skin"
+145,24,C0161875,"Other operations on teeth, gums, and alveoli"
+146,24.31,C2223867,Excision of lesion or tissue of gum
+147,24.5,C0002393,Alveoloplasty
+148,242.90,C0154154,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm"
+149,244.9,C0020676,Unspecified acquired hypothyroidism
+150,246.9,C0040128,Unspecified disorder of thyroid
+151,25.51,C0017680,Suture of laceration of tongue
+152,25.59,C0176421,Other repair and plastic operations on tongue
+153,250.00,C0375113,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+154,250.01,C0375114,"Diabetes mellitus without mention of complication, type I [juvenile type], not stated as uncontrolled"
+155,250.02,C0375115,"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled"
+156,250.03,C0375116,"Diabetes mellitus without mention of complication, type I [juvenile type], uncontrolled"
+157,250.12,C0375119,"Diabetes with ketoacidosis, type II or unspecified type, uncontrolled"
+158,250.13,C0375120,"Diabetes with ketoacidosis, type I [juvenile type], uncontrolled"
+159,250.40,C0375130,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+160,250.41,C0375131,"Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled"
+161,250.50,C0375134,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+162,250.51,C0375135,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+163,250.60,C0375137,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+164,250.61,C0375138,"Diabetes with neurological manifestations, type I [juvenile type], not stated as uncontrolled"
+165,250.62,C0375139,"Diabetes with neurological manifestations, type II or unspecified type, uncontrolled"
+166,250.70,C0375141,"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled"
+167,250.71,C0375142,"Diabetes with peripheral circulatory disorders, type I [juvenile type], not stated as uncontrolled"
+168,250.72,C0375143,"Diabetes with peripheral circulatory disorders, type II or unspecified type, uncontrolled"
+169,250.73,C0375144,"Diabetes with peripheral circulatory disorders, type I [juvenile type], uncontrolled"
+170,250.80,C0375145,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled"
+171,250.81,C0375146,"Diabetes with other specified manifestations, type I [juvenile type], not stated as uncontrolled"
+172,250.82,C0375147,"Diabetes with other specified manifestations, type II or unspecified type, uncontrolled"
+173,252.0,C0020502,Hyperparathyroidism
+174,253.5,C0011848,Diabetes insipidus
+175,253.6,C0029593,Other disorders of neurohypophysis
+176,255.41,C1955741,Glucocorticoid deficiency
+177,261,C0086588,Nutritional marasmus
+178,262,C0267981,Other severe protein-calorie malnutrition
+179,263.9,C0033677,Unspecified protein-calorie malnutrition
+180,266.2,C0029523,Other B-complex deficiencies
+181,269.9,C0162429,Unspecified nutritional deficiency
+182,27.23,C0191987,Biopsy of lip
+183,27.24,C0161878,"Biopsy of mouth, unspecified structure"
+184,27.42,C0176442,Wide excision of lesion of lip
+185,27.43,C0176443,Other excision of lesion or tissue of lip
+186,27.49,C0176444,Other excision of mouth
+187,27.51,C0176445,Suture of laceration of lip
+188,27.52,C0176446,Suture of laceration of other part of mouth
+189,27.55,C0176447,Full-thickness skin graft to lip and mouth
+190,27.59,C0176449,Other plastic repair of mouth
+191,27.69,C0176450,Other plastic repair of palate
+192,272.0,C0678189,Pure hypercholesterolemia
+193,272.1,C0020480,Pure hyperglyceridemia
+194,272.2,C0020474,Mixed hyperlipidemia
+195,272.4,C0348494,Other and unspecified hyperlipidemia
+196,272.5,C0020623,Lipoprotein deficiencies
+197,272.9,C0154251,Unspecified disorder of lipoid metabolism
+198,274.0,C0003868,Gouty arthropathy
+199,274.9,C0018099,"Gout, unspecified"
+200,275.49,C0489982,Other disorders of calcium metabolism
+201,276.0,C0342580,Hyperosmolality and/or hypernatremia
+202,276.1,C0020645,Hyposmolality and/or hyponatremia
+203,276.2,C0001122,Acidosis
+204,276.4,C0154264,Mixed acid-base balance disorder
+205,276.5,C0546884,Volume depletion
+206,276.51,C0011175,Dehydration
+207,276.52,C0546884,Hypovolemia
+208,276.6,C0546817,Fluid overload
+209,276.7,C0020461,Hyperpotassemia
+210,276.8,C0020621,Hypopotassemia
+211,277.9,C0025517,Unspecified disorder of metabolism
+212,278.00,C0028754,"Obesity, unspecified"
+213,278.01,C0028756,Morbid obesity
+214,28.2,C0040423,Tonsillectomy without adenoidectomy
+215,280.0,C0154286,Iron deficiency anemia secondary to blood loss (chronic)
+216,280.9,C0162316,"Iron deficiency anemia, unspecified"
+217,282.49,C0477306,Other thalassemia
+218,283.0,C0002880,Autoimmune hemolytic anemias
+219,283.19,C0375155,Other non-autoimmune hemolytic anemias
+220,284.1,C0030312,Pancytopenia
+221,284.12,C3161074,Other drug-induced pancytopenia
+222,284.8,C0029745,Other specified aplastic anemias
+223,284.9,C0002874,"Aplastic anemia, unspecified"
+224,285.1,C0154298,Acute posthemorrhagic anemia
+225,285.21,C1561828,Anemia in chronic kidney disease
+226,285.29,C1719324,Anemia of other chronic disease
+227,285.9,C0002871,"Anemia, unspecified"
+228,286.6,C0012739,Defibrination syndrome
+229,286.9,C0029496,Other and unspecified coagulation defects
+230,287.4,C0154301,Secondary thrombocytopenia
+231,287.5,C0040034,"Thrombocytopenia, unspecified"
+232,288.8,C0477318,Other specified disease of white blood cells
+233,29.11,C0192232,Pharyngoscopy
+234,29.12,C0192210,Pharyngeal biopsy
+235,29.4,C0176465,Plastic operation on pharynx
+236,291.0,C0001957,Alcohol withdrawal delirium
+237,291.2,C0236656,Alcohol-induced persisting dementia
+238,292.84,C1998428,Drug-induced mood disorder
+239,292.89,C0154325,Other specified drug-induced mental disorders
+240,293.0,C1456296,Delirium due to conditions classified elsewhere
+241,294.10,C0878691,Dementia in conditions classified elsewhere without behavioral disturbance
+242,294.20,C3161078,"Dementia, unspecified, without behavioral disturbance"
+243,294.8,C0154338,Other persistent mental disorders due to conditions classified elsewhere
+244,295.14,C0154347,"Disorganized type schizophrenia, chronic with acute exacerbation"
+245,295.60,C0036351,"Schizophrenic disorders, residual type, unspecified"
+246,295.70,C0036337,"Schizoaffective disorder, unspecified"
+247,295.90,C0036341,"Unspecified schizophrenia, unspecified"
+248,296.20,C0024517,"Major depressive affective disorder, single episode, unspecified"
+249,296.22,C0154404,"Major depressive affective disorder, single episode, moderate"
+250,296.30,C0154409,"Major depressive affective disorder, recurrent episode, unspecified"
+251,296.80,C0005586,"Bipolar disorder, unspecified"
+252,298.9,C0033975,Unspecified psychosis
+253,299.00,C0154446,"Autistic disorder, current or active state"
+254,30.09,C0176471,Other excision or destruction of lesion or tissue of larynx
+255,30.9,,
+256,300.00,C0700613,"Anxiety state, unspecified"
+257,300.9,C0041857,Unspecified nonpsychotic mental disorder
+258,301.9,C0031212,Unspecified personality disorder
+259,303.00,C0812429,"Acute alcoholic intoxication in alcoholism, unspecified"
+260,303.90,C0154474,"Other and unspecified alcohol dependence, unspecified"
+261,303.91,C0154475,"Other and unspecified alcohol dependence, continuous"
+262,304.01,C0154478,"Opioid type dependence, continuous"
+263,304.11,C0154482,"Sedative, hypnotic or anxiolytic dependence, continuous"
+264,304.20,C0600427,"Cocaine dependence, unspecified"
+265,304.30,C0375174,"Cannabis dependence, unspecified"
+266,304.70,C0375176,"Combinations of opioid type drug with any other drug dependence, unspecified"
+267,305.00,C0085762,"Alcohol abuse, unspecified"
+268,305.01,C1812624,"Alcohol abuse, continuous"
+269,305.1,C0040336,Tobacco use disorder
+270,305.60,C0009171,"Cocaine abuse, unspecified"
+271,305.90,C0154544,"Other, mixed, or unspecified drug abuse, unspecified"
+272,305.93,C0154547,"Other, mixed, or unspecified drug abuse, in remission"
+273,31.1,C0039492,Temporary tracheostomy
+274,31.29,C0176475,Other permanent tracheostomy
+275,31.42,C0023073,Laryngoscopy and other tracheoscopy
+276,31.43,C0868779,Closed [endoscopic] biopsy of larynx
+277,31.5,C0176484,Local excision or destruction of lesion or tissue of trachea
+278,31.74,C0189427,Revision of tracheostomy
+279,31.75,C0176491,Reconstruction of trachea and construction of artificial larynx
+280,311,C0868892,"Depressive disorder, not elsewhere classified"
+281,315.9,C0424605,Unspecified delay in development
+282,318.0,C0026351,Moderate intellectual disabilities
+283,318.1,C0036857,Severe intellectual disabilities
+284,319,C3161331,Unspecified intellectual disabilities
+285,321.0,C0085436,Cryptococcal meningitis
+286,327.23,C0520679,Obstructive sleep apnea (adult)(pediatric)
+287,33.1,C0189471,Incision of lung
+288,33.20,C0521221,Thoracoscopic lung biopsy
+289,33.21,C0176510,Bronchoscopy through artificial stoma
+290,33.22,C0189391,Fiber-optic bronchoscopy
+291,33.23,C0029526,Other bronchoscopy
+292,33.24,C0176511,Closed [endoscopic] biopsy of bronchus
+293,33.27,C0176513,Closed endoscopic biopsy of lung
+294,33.28,C0176514,Open biopsy of lung
+295,331.0,C0002395,Alzheimer's disease
+296,331.4,C0549423,Obstructive hydrocephalus
+297,331.9,C0154671,"Cerebral degeneration, unspecified"
+298,332.0,C0030567,Paralysis agitans
+299,336.9,C0037928,Unspecified disease of spinal cord
+300,337.0,C0154690,Idiopathic peripheral autonomic neuropathy
+301,337.1,C0154691,Peripheral autonomic neuropathy in disorders classified elsewhere
+302,34,C0161888,"Operations on chest wall, pleura, mediastinum, and diaphragm"
+303,34.02,C0175759,Exploratory thoracotomy
+304,34.03,C2243036,Reopening of recent thoracotomy site
+305,34.04,C0371436,Insertion of intercostal catheter for drainage
+306,34.09,C0029641,Other incision of pleura
+307,34.23,C1261309,Biopsy of chest wall
+308,34.24,C1955763,Other pleural biopsy
+309,34.4,C0176536,Excision or destruction of lesion of chest wall
+310,34.51,C0176537,Decortication of lung
+311,34.6,C0189557,Scarification of pleura
+312,34.91,C0189477,Thoracentesis
+313,340,C0026769,Multiple sclerosis
+314,342.90,C0375218,"Hemiplegia, unspecified, affecting unspecified side"
+315,343.2,C0154697,Congenital quadriplegia
+316,343.9,C0392549,"Infantile cerebral palsy, unspecified"
+317,344.00,C0034372,"Quadriplegia, unspecified"
+318,344.1,C0030486,Paraplegia
+319,345.50,C0154714,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy"
+320,345.90,C0154721,"Epilepsy, unspecified, without mention of intractable epilepsy"
+321,348.1,C0003132,Anoxic brain damage
+322,348.3,C0085584,"Encephalopathy, not elsewhere classified"
+323,348.31,C0006112,Metabolic encephalopathy
+324,348.39,C1260408,Other encephalopathy
+325,348.5,C0006114,Cerebral edema
+326,349.2,C0795685,"Disorders of meninges, not elsewhere classified"
+327,349.82,C0149504,Toxic encephalopathy
+328,35.14,C0190117,Open heart valvuloplasty of tricuspid valve without replacement
+329,35.21,C3161351,Open and other replacement of aortic valve with tissue graft
+330,35.23,C3161353,Open and other replacement of mitral valve with tissue graft
+331,35.24,C3161354,Open and other replacement of mitral valve
+332,354.0,C0007286,Carpal tunnel syndrome
+333,354.2,C1288279,Lesion of ulnar nerve
+334,355.9,C0235880,Mononeuritis of unspecified site
+335,356.1,C0007959,Peroneal muscular atrophy
+336,356.9,C0859673,Unspecified hereditary and idiopathic peripheral neuropathy
+337,357.2,C0271680,Polyneuropathy in diabetes
+338,358.00,C1260409,Myasthenia gravis without (acute) exacerbation
+339,359.1,C4551827,Hereditary progressive muscular dystrophy
+340,36,C0190189,Operations on vessels of heart
+341,36.01,,
+342,36.02,,
+343,36.04,C0190205,Intracoronary artery thrombolytic infusion
+344,36.05,,
+345,36.06,C0521232,Insertion of non-drug-eluting coronary artery stent(s)
+346,36.07,C1135452,Insertion of drug-eluting coronary artery stent(s)
+347,36.09,C0176587,Other removal of coronary artery obstruction
+348,36.11,C0190224,(Aorto)coronary bypass of one coronary artery
+349,36.12,C0190228,(Aorto)coronary bypass of two coronary arteries
+350,36.13,C0190232,(Aorto)coronary bypass of three coronary arteries
+351,36.14,C0190236,(Aorto)coronary bypass of four or more coronary arteries
+352,36.15,C0021781,Single internal mammary-coronary artery bypass
+353,360.30,C0028841,"Hypotony of eye, unspecified"
+354,361.00,C0154808,"Retinal detachment with retinal defect, unspecified"
+355,361.01,C0154809,"Recent retinal detachment, partial, with single defect"
+356,361.33,C0154827,Multiple defects of retina without detachment
+357,361.81,C0154828,Traction detachment of retina
+358,361.89,C0339440,Other forms of retinal detachment
+359,361.9,C0035305,Unspecified retinal detachment
+360,362.01,C0004606,Background diabetic retinopathy
+361,362.02,C0154830,Proliferative diabetic retinopathy
+362,362.10,C0004608,"Background retinopathy, unspecified"
+363,362.29,C0154838,Other nondiabetic proliferative retinopathy
+364,362.35,C0154841,Central retinal vein occlusion
+365,362.50,C0242383,"Macular degeneration (senile), unspecified"
+366,362.54,C1261331,"Macular cyst, hole, or pseudohole"
+367,362.56,C0339543,Macular puckering
+368,362.63,C0154856,Lattice degeneration
+369,362.81,C0035317,Retinal hemorrhage
+370,362.89,C0339438,Other retinal disorders
+371,363.20,C0008513,"Chorioretinitis, unspecified"
+372,363.30,C0008512,"Chorioretinal scar, unspecified"
+373,364.3,C0022073,Unspecified iridocyclitis
+374,364.41,C0020582,Hyphema of iris and ciliary body
+375,364.42,C0154916,Rubeosis iridis
+376,364.71,C0152253,Posterior synechiae of iris
+377,364.72,C0152252,Anterior synechiae of iris
+378,365.00,C0549470,"Preglaucoma, unspecified"
+379,365.11,C0339573,Primary open angle glaucoma
+380,365.89,C0029802,Other specified glaucoma
+381,365.9,C0017601,Unspecified glaucoma
+382,366.10,C0036646,"Senile cataract, unspecified"
+383,366.14,C0154979,Posterior subcapsular polar senile cataract
+384,366.15,C0154980,Cortical senile cataract
+385,366.16,C0271166,Senile nuclear sclerosis
+386,366.17,C3665439,Total or mature cataract
+387,366.9,C0086543,Unspecified cataract
+388,368.46,C0271202,Homonymous bilateral field defects
+389,368.8,C0029844,Other specified visual disturbances
+390,368.9,C0547030,Unspecified visual disturbance
+391,369.60,C0392578,"Profound impairment, one eye, impairment level not further specified"
+392,37.21,C0189896,Right heart cardiac catheterization
+393,37.22,C0189897,Left heart cardiac catheterization
+394,37.23,C0189898,Combined right and left heart cardiac catheterization
+395,37.24,C0191244,Biopsy of pericardium
+396,37.25,C0189784,Biopsy of heart
+397,37.26,C0199551,Catheter based invasive electrophysiologic testing
+398,37.27,C0199553,Cardiac mapping
+399,37.29,C0176595,Other diagnostic procedures on heart and pericardium
+400,37.34,C2921041,"Excision or destruction of other lesion or tissue of heart, endovascular approach"
+401,37.49,C1561900,Other repair of heart and pericardium
+402,37.61,C0176599,Implant of pulsation balloon
+403,37.71,C0176604,Initial insertion of transvenous lead [electrode] into ventricle
+404,37.72,C0189824,Initial insertion of transvenous leads [electrodes] into atrium and ventricle
+405,37.74,C0176607,Insertion or replacement of epicardial lead [electrode] into epicardium
+406,37.75,C0189831,Revision of lead [electrode]
+407,37.77,C0189887,Removal of lead(s) [electrode] without replacement
+408,37.78,C0176611,Insertion of temporary transvenous pacemaker system
+409,37.79,C1561901,Revision or relocation of cardiac device pocket
+410,37.81,C0189846,"Initial insertion of single-chamber device, not specified as rate responsive"
+411,37.83,C0189848,Initial insertion of dual-chamber device
+412,37.89,C0176617,Revision or removal of pacemaker device
+413,37.91,C0190043,Open chest cardiac massage
+414,37.94,C0176619,"Implantation or replacement of automatic cardioverter/defibrillator, total system [AICD]"
+415,37.96,C0189868,Implantation of automatic cardioverter/defibrillator pulse generator only
+416,37.98,C0189870,Replacement of automatic cardioverter/defibrillator pulse generator only
+417,37.99,C0161892,Other operations on heart and pericardium
+418,370.00,C0010043,"Corneal ulcer, unspecified"
+419,370.60,C0085109,"Corneal neovascularization, unspecified"
+420,370.9,C0022568,Unspecified keratitis
+421,371.00,C0010038,"Corneal opacity, unspecified"
+422,371.20,C0010037,"Corneal edema, unspecified"
+423,371.43,C0155120,Band-shaped keratopathy
+424,372.10,C0155145,"Chronic conjunctivitis, unspecified"
+425,372.40,C4520843,"Pterygium, unspecified"
+426,372.63,C0152454,Symblepharon
+427,372.64,C0155164,Scarring of conjunctiva
+428,374.00,C0014390,"Entropion, unspecified"
+429,374.10,C0013592,"Ectropion, unspecified"
+430,374.30,C0005745,"Ptosis of eyelid, unspecified"
+431,374.34,C0005742,Blepharochalasis
+432,374.41,C0155204,Lid retraction or lag
+433,374.84,C0155218,Cysts of eyelids
+434,374.87,C0010495,Dermatochalasis
+435,374.89,C0155186,Other disorders of eyelid
+436,375.15,C0043349,"Tear film insufficiency, unspecified"
+437,375.20,C0152227,"Epiphora, unspecified as to cause"
+438,375.52,C0155244,Stenosis of lacrimal punctum
+439,375.56,C0155248,"Stenosis of nasolacrimal duct, acquired"
+440,376.52,C0155282,Enophthalmos due to trauma or surgery
+441,376.89,C0155284,Other orbital disorders
+442,378.62,C0155340,Mechanical strabismus from other musculofascial disorders
+443,379.23,C0042909,Vitreous hemorrhage
+444,379.8,C0155384,Other specified disorders of eye and adnexa
+445,38,C0161893,"Incision, excision, and occlusion of vessels"
+446,38.06,C0190578,"Incision of vessel, abdominal arteries"
+447,38.12,C0176629,"Endarterectomy, other vessels of head and neck"
+448,38.18,C0190863,"Endarterectomy, lower limb arteries"
+449,38.44,C0190338,"Resection of vessel with replacement, aorta, abdominal"
+450,38.45,C0176642,"Resection of vessel with replacement, thoracic vessels"
+451,38.7,C0191172,Interruption of the vena cava
+452,38.91,C0007431,Arterial catheterization
+453,38.93,C0162203,"Venous catheterization, not elsewhere classified"
+454,38.94,C0085290,Venous cutdown
+455,38.95,C0191126,Venous catheterization for renal dialysis
+456,38.97,C2921047,Central venous catheter placement with guidance
+457,38.98,C0176674,Other puncture of artery
+458,38.99,C0176675,Other puncture of vein
+459,380,C0155388,Disorders of external ear
+460,381.1,C0155421,Chronic serous otitis media
+461,381.2,C1455742,Chronic mucoid otitis media
+462,381.4,C0271446,"Nonsuppurative otitis media, not specified as acute or chronic"
+463,381.9,C0271468,Unspecified Eustachian tube disorder
+464,382.9,C0029882,Unspecified otitis media
+465,383,C0155442,Mastoiditis and related conditions
+466,384.1,C0395849,Chronic myringitis without mention of otitis media
+467,384.2,C0206504,Perforation of tympanic membrane
+468,384.3,,
+469,384.9,C0041825,Unspecified disorder of tympanic membrane
+470,386.9,C0155523,Unspecified vertiginous syndromes and labyrinthine disorders
+471,389,C0011053,Hearing loss
+472,389.00,C0018777,"Conductive hearing loss, unspecified"
+473,389.9,C1384666,Unspecified hearing loss
+474,39.0,C0190388,Systemic to pulmonary artery shunt
+475,39.1,C0021859,Intra-abdominal venous shunt
+476,39.2,C0176677,Other shunt or vascular bypass
+477,39.27,C0189693,Arteriovenostomy for renal dialysis
+478,39.29,C0029480,Other (peripheral) vascular shunt or bypass
+479,39.30,C0002998,Suture of unspecified blood vessel
+480,39.31,C0398053,Suture of artery
+481,39.42,C2937354,Revision of arteriovenous shunt for renal dialysis
+482,39.49,C0176685,Other revision of vascular procedure
+483,39.50,C1456093,Angioplasty of other non-coronary vessel(s)
+484,39.56,C0176688,Repair of blood vessel with tissue patch graft
+485,39.57,C0176689,Repair of blood vessel with synthetic patch graft
+486,39.59,C0029725,Other repair of vessel
+487,39.61,C0015355,Extracorporeal circulation auxiliary to open heart surgery
+488,39.64,C0199655,Intraoperative cardiac pacemaker
+489,39.79,C2712581,Other endovascular procedures on other vessels
+490,39.90,C2712582,Insertion of non-drug-eluting peripheral (non-coronary) vessel stent(s)
+491,39.93,C0189622,Insertion of vessel-to-vessel cannula
+492,39.95,C0019004,Hemodialysis
+493,394.1,C0155563,Rheumatic mitral insufficiency
+494,396.0,C0155572,Mitral valve stenosis and aortic valve stenosis
+495,396.2,C1306822,Mitral valve insufficiency and aortic valve stenosis
+496,396.3,C0264774,Mitral valve insufficiency and aortic valve insufficiency
+497,396.8,C0155576,Multiple involvement of mitral and aortic valves
+498,397.0,C0264776,Diseases of tricuspid valve
+499,398.91,C0155582,Rheumatic heart failure (congestive)
+500,40,C0600057,Operations on lymphatic system
+501,40.21,C0193857,Excision of deep cervical lymph node
+502,40.29,C0176700,Simple excision of other lymphatic structure
+503,401.0,C0024588,Malignant essential hypertension
+504,401.1,C0155583,Benign essential hypertension
+505,401.9,C0085580,Unspecified essential hypertension
+506,402.90,C1135332,Unspecified hypertensive heart disease without heart failure
+507,402.91,C1135333,Unspecified hypertensive heart disease with heart failure
+508,403.90,C0494574,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+509,403.91,C0348860,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+510,404.91,C3665458,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+511,404.92,C0348879,"Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage V or end stage renal disease"
+512,404.93,C0494576,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and chronic kidney disease stage V or end stage renal disease"
+513,405.91,C0155624,Unspecified renovascular hypertension
+514,41,C0161896,Operations on bone marrow and spleen
+515,41.31,C0005954,Biopsy of bone marrow
+516,41.5,C0337385,Total splenectomy
+517,410.0,C0155627,"Acute myocardial infarction, of anterolateral wall"
+518,410.10,C0155632,"Acute myocardial infarction of other anterior wall, episode of care unspecified"
+519,410.11,C0155633,"Acute myocardial infarction of other anterior wall, initial episode of care"
+520,410.40,C0155644,"Acute myocardial infarction of other inferior wall, episode of care unspecified"
+521,410.41,C0155645,"Acute myocardial infarction of other inferior wall, initial episode of care"
+522,410.51,C0155649,"Acute myocardial infarction of other lateral wall, initial episode of care"
+523,410.61,C0155653,"True posterior wall infarction, initial episode of care"
+524,410.71,C0155657,"Subendocardial infarction, initial episode of care"
+525,410.72,C0155658,"Subendocardial infarction, subsequent episode of care"
+526,410.91,C0155664,"Acute myocardial infarction of unspecified site, initial episode of care"
+527,410.92,C0155665,"Acute myocardial infarction of unspecified site, subsequent episode of care"
+528,411.0,C0152107,Postmyocardial infarction syndrome
+529,411.1,C0002965,Intermediate coronary syndrome
+530,411.89,C0340283,"Other acute and subacute forms of ischemic heart disease, other"
+531,412,C0155668,Old myocardial infarction
+532,413.1,C0002963,Prinzmetal angina
+533,413.9,C0348588,Other and unspecified angina pectoris
+534,414.00,C0837133,"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+535,414.01,C0837134,Coronary atherosclerosis of native coronary artery
+536,414.02,C0837135,Coronary atherosclerosis of autologous vein bypass graft
+537,414.03,C0837136,Coronary atherosclerosis of nonautologous biological bypass graft
+538,414.04,C0375264,Coronary atherosclerosis of artery bypass graft
+539,414.05,C0375265,Coronary atherosclerosis of unspecified bypass graft
+540,414.10,C1541919,Aneurysm of heart (wall)
+541,414.12,C0340648,Dissection of coronary artery
+542,414.2,C1955779,Chronic total occlusion of coronary artery
+543,414.8,C0155670,Other specified forms of chronic ischemic heart disease
+544,414.9,C0264694,"Chronic ischemic heart disease, unspecified"
+545,415.11,C2711829,Iatrogenic pulmonary embolism and infarction
+546,415.19,C0375267,Other pulmonary embolism and infarction
+547,416.0,C0152171,Primary pulmonary hypertension
+548,416.8,C0155673,Other chronic pulmonary heart diseases
+549,416.9,C0238074,"Chronic pulmonary heart disease, unspecified"
+550,417,C0155674,Other diseases of pulmonary circulation
+551,42,C0192259,Operations on esophagus
+552,42.22,C0192307,Esophagoscopy through artificial stoma
+553,42.23,C0176725,Other esophagoscopy
+554,42.33,C0176731,Endoscopic excision or destruction of lesion or tissue of esophagus
+555,42.92,C0740287,Dilation of esophagus
+556,421.0,C0553977,Acute and subacute bacterial endocarditis
+557,423.9,C0265122,Unspecified disease of pericardium
+558,424.0,C0026265,Mitral valve disorders
+559,424.1,C1260873,Aortic valve disorders
+560,424.3,C0034087,Pulmonary valve disorders
+561,424.90,C0264865,"Endocarditis, valve unspecified, unspecified cause"
+562,425.4,C0340419,Other primary cardiomyopathies
+563,425.8,C0155699,Cardiomyopathy in other diseases classified elsewhere
+564,426.0,C0151517,"Atrioventricular block, complete"
+565,426.11,C0085614,First degree atrioventricular block
+566,426.2,C0155702,Left bundle branch hemiblock
+567,426.3,C0155703,Other left bundle branch block
+568,426.4,C0085615,Right bundle branch block
+569,426.51,C0155704,Right bundle branch block and left posterior fascicular block
+570,426.52,C0155705,Right bundle branch block and left anterior fascicular block
+571,426.53,C0155706,Other bilateral bundle branch block
+572,426.54,C0155707,Trifascicular block
+573,426.9,C0264886,"Conduction disorder, unspecified"
+574,427.0,C0030590,Paroxysmal supraventricular tachycardia
+575,427.1,C0030591,Paroxysmal ventricular tachycardia
+576,427.31,C0004238,Atrial fibrillation
+577,427.32,C0004239,Atrial flutter
+578,427.5,C0018790,Cardiac arrest
+579,427.69,C0029712,Other premature beats
+580,427.81,C0428908,Sinoatrial node dysfunction
+581,427.89,C0348626,Other specified cardiac dysrhythmias
+582,427.9,C0003811,"Cardiac dysrhythmia, unspecified"
+583,428.0,C0018802,"Congestive heart failure, unspecified"
+584,428.1,C0023212,Left heart failure
+585,428.20,C1135191,"Systolic heart failure, unspecified"
+586,428.21,C2732748,Acute systolic heart failure
+587,428.22,C1135194,Chronic systolic heart failure
+588,428.23,C2733492,Acute on chronic systolic heart failure
+589,428.30,C1135196,"Diastolic heart failure, unspecified"
+590,428.31,C2732951,Acute diastolic heart failure
+591,428.32,C2711480,Chronic diastolic heart failure
+592,428.33,C2732749,Acute on chronic diastolic heart failure
+593,428.41,C2882274,Acute combined systolic and diastolic heart failure
+594,428.42,C2882275,Chronic combined systolic and diastolic heart failure
+595,428.43,C2882276,Acute on chronic combined systolic and diastolic heart failure
+596,428.9,C0018801,"Heart failure, unspecified"
+597,429.0,C0027059,"Myocarditis, unspecified"
+598,429.2,C0007222,"Cardiovascular disease, unspecified"
+599,429.3,C0018800,Cardiomegaly
+600,429.89,C0155717,Other ill-defined heart diseases
+601,429.9,C0018799,"Heart disease, unspecified"
+602,43,C0161898,Incision and excision of stomach
+603,43.11,C0176751,Percutaneous [endoscopic] gastrostomy [PEG]
+604,43.19,C0176752,Other gastrostomy
+605,43.41,C0176754,Endoscopic excision or destruction of lesion or tissue of stomach
+606,430,C0038525,Subarachnoid hemorrhage
+607,431,C2937358,Intracerebral hemorrhage
+608,432.1,C0018946,Subdural hemorrhage
+609,432.9,C0151699,Unspecified intracranial hemorrhage
+610,433.10,C0375275,Occlusion and stenosis of carotid artery without mention of cerebral infarction
+611,433.11,C0375276,Occlusion and stenosis of carotid artery with cerebral infarction
+612,433.20,C0375277,Occlusion and stenosis of vertebral artery without mention of cerebral infarction
+613,433.30,C0375279,Occlusion and stenosis of multiple and bilateral precerebral arteries without mention of cerebral infarction
+614,433.31,C0375280,Occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction
+615,433.80,C0375281,Occlusion and stenosis of other specified precerebral artery without mention of cerebral infarction
+616,434.91,C0375291,"Cerebral artery occlusion, unspecified with cerebral infarction"
+617,435.9,C0917805,Unspecified transient cerebral ischemia
+618,436,C0001365,"Acute, but ill-defined, cerebrovascular disease"
+619,437.2,C0151620,Hypertensive encephalopathy
+620,437.3,C0155730,"Cerebral aneurysm, nonruptured"
+621,437.9,C0007820,Unspecified cerebrovascular disease
+622,438.11,C0489985,"Late effects of cerebrovascular disease, aphasia"
+623,438.20,C0489989,"Late effects of cerebrovascular disease, hemiplegia affecting unspecified side"
+624,438.6,C1135206,"Late effects of cerebrovascular disease, alterations of sensations"
+625,438.89,C0490004,Other late effects of cerebrovascular disease
+626,438.9,C0155732,Unspecified late effects of cerebrovascular disease
+627,44,C0161900,Other operations on stomach
+628,44.13,C0029623,Other gastroscopy
+629,44.3,C0017166,Gastroenterostomy without gastrectomy
+630,44.32,C0994537,Percutaneous [endoscopic] gastrojejunostomy
+631,44.43,C0176770,Endoscopic control of gastric or duodenal bleeding
+632,44.44,C0176771,Transcatheter embolization for gastric or duodenal bleeding
+633,44.63,C0176775,Closure of other gastric fistula
+634,44.66,C0176776,Other procedures for creation of esophagogastric sphincteric competence
+635,44.69,C0029724,Other repair of stomach
+636,44.9,C0161900,Other operations on stomach
+637,440.0,C0155733,Atherosclerosis of aorta
+638,440.1,C0155734,Atherosclerosis of renal artery
+639,440.20,C0375294,"Atherosclerosis of native arteries of the extremities, unspecified"
+640,440.21,C0375295,Atherosclerosis of native arteries of the extremities with intermittent claudication
+641,440.22,C2882703,Atherosclerosis of native arteries of the extremities with rest pain
+642,440.23,C0375297,Atherosclerosis of native arteries of the extremities with ulceration
+643,440.24,C0375298,Atherosclerosis of native arteries of the extremities with gangrene
+644,440.29,C0375299,Other atherosclerosis of native arteries of the extremities
+645,440.31,C0375302,Atherosclerosis of autologous vein bypass graft of the extremities
+646,440.4,C1955783,Chronic total occlusion of artery of the extremities
+647,440.8,C0004155,Atherosclerosis of other specified arteries
+648,441.01,C0729233,"Dissection of aorta, thoracic"
+649,441.02,C0302465,"Dissection of aorta, abdominal"
+650,441.2,C3251816,Thoracic aneurysm without mention of rupture
+651,441.3,C0265012,"Abdominal aneurysm, ruptured"
+652,441.4,C0265011,Abdominal aneurysm without mention of rupture
+653,441.9,C0340629,Aortic aneurysm of unspecified site without mention of rupture
+654,442.2,C0162870,Aneurysm of iliac artery
+655,442.3,C0155744,Aneurysm of artery of lower extremity
+656,442.89,C0002945,Aneurysm of other specified artery
+657,443.0,C0034734,Raynaud's syndrome
+658,443.81,C0031115,Peripheral angiopathy in diseases classified elsewhere
+659,443.89,C0029822,Other specified peripheral vascular diseases
+660,443.9,C0085096,"Peripheral vascular disease, unspecified"
+661,444.0,C0013923,Embolism and thrombosis of abdominal aorta
+662,444.21,C0494620,Arterial embolism and thrombosis of upper extremity
+663,444.22,C0340589,Arterial embolism and thrombosis of lower extremity
+664,444.81,C0155755,Embolism and thrombosis of iliac artery
+665,444.89,C0155754,Embolism and thrombosis of other specified artery
+666,446.6,C2717961,Thrombotic microangiopathy
+667,447.0,C1541850,"Arteriovenous fistula, acquired"
+668,447.1,C0038449,Stricture of artery
+669,447.2,C0155760,Rupture of artery
+670,447.8,C0155763,Other specified disorders of arteries and arterioles
+671,45,C0161901,"Incision, excision, and anastomosis of intestine"
+672,45.13,C0029611,Other endoscopy of small intestine
+673,45.14,C0192675,Closed [endoscopic] biopsy of small intestine
+674,45.16,C0176784,Esophagogastroduodenoscopy [EGD] with closed biopsy
+675,45.23,C0009378,Colonoscopy
+676,45.25,C0192891,Closed [endoscopic] biopsy of large intestine
+677,45.30,C0176791,Endoscopic excision or destruction of lesion of duodenum
+678,45.33,C0176794,"Local excision of lesion or tissue of small intestine, except duodenum"
+679,45.41,C0176797,Excision of lesion or tissue of large intestine
+680,45.42,C0192894,Endoscopic polypectomy of large intestine
+681,45.43,C0375971,Endoscopic destruction of other lesion or tissue of large intestine
+682,45.49,C0176799,Other destruction of lesion of large intestine
+683,45.62,C0176804,Other partial resection of small intestine
+684,45.73,C2349512,Open and other right hemicolectomy
+685,45.75,C2349514,Open and other left hemicolectomy
+686,45.76,C2349515,Open and other sigmoidectomy
+687,45.8,C0176806,Total intra-abdominal colectomy
+688,45.94,C0192955,Large-to-large intestinal anastomosis
+689,453.8,C2712736,Acute venous embolism and thrombosis of other specified veins
+690,453.85,C2712847,Acute venous embolism and thrombosis of subclavian veins
+691,453.9,C0040038,Other venous embolism and thrombosis of unspecified site
+692,454.0,C0553570,Varicose veins of lower extremities with ulcer
+693,455.0,C0265035,Internal hemorrhoids without mention of complication
+694,455.1,C0155781,Internal thrombosed hemorrhoids
+695,455.2,C0155782,Internal hemorrhoids with other complication
+696,455.4,C0155784,External thrombosed hemorrhoids
+697,455.6,C0041844,Unspecified hemorrhoids without mention of complication
+698,456.1,C0267092,Esophageal varices without mention of bleeding
+699,456.20,C0155792,"Esophageal varices in diseases classified elsewhere, with bleeding"
+700,458.0,C0020651,Orthostatic hypotension
+701,458.8,C0490007,Other specified hypotension
+702,458.9,C0020649,"Hypotension, unspecified"
+703,459.2,C0155802,Compression of vein
+704,459.81,C0042485,"Venous (peripheral) insufficiency, unspecified"
+705,46,C0399857,Other operations on intestine
+706,46.10,C0009410,"Colostomy, not otherwise specified"
+707,46.73,C0176821,"Suture of laceration of small intestine, except duodenum"
+708,46.75,C0176823,Suture of laceration of large intestine
+709,46.79,C0176819,Other repair of intestine
+710,46.85,C0176825,Dilation of intestine
+711,461.0,C0155804,Acute maxillary sinusitis
+712,461.9,C0149512,"Acute sinusitis, unspecified"
+713,47,C0192819,Operations on appendix
+714,47.19,C0375980,Other incidental appendectomy
+715,470,C0549397,Deviated nasal septum
+716,471.0,C0027430,Polyp of nasal cavity
+717,471.8,C0155823,Other polyp of sinus
+718,471.9,C0027430,Unspecified nasal polyp
+719,472.0,C0008711,Chronic rhinitis
+720,472.2,C0155826,Chronic nasopharyngitis
+721,473.0,C0008698,Chronic maxillary sinusitis
+722,473.1,C0008683,Chronic frontal sinusitis
+723,473.2,C0008681,Chronic ethmoidal sinusitis
+724,473.3,C0008712,Chronic sphenoidal sinusitis
+725,473.8,C0395986,Other chronic sinusitis
+726,473.9,C0149516,Unspecified sinusitis (chronic)
+727,474.00,C0149517,Chronic tonsillitis
+728,474.11,C0155831,Hypertrophy of tonsils alone
+729,477.9,C2607914,"Allergic rhinitis, cause unspecified"
+730,478.0,C0155840,Hypertrophy of nasal turbinates
+731,478.1,C0029581,Other diseases of nasal cavity and sinuses
+732,478.26,C0155845,Cyst of pharynx or nasopharynx
+733,478.29,C0795699,"Other diseases of pharynx, not elsewhere classified"
+734,478.79,C1561612,"Other diseases of larynx, not elsewhere classified"
+735,48.1,C0193184,Proctostomy
+736,48.23,C0035622,Rigid proctosigmoidoscopy
+737,48.24,C0193156,Closed [endoscopic] biopsy of rectum
+738,48.32,C0176840,Other electrocoagulation of rectal lesion or tissue
+739,48.36,C0375981,[Endoscopic] polypectomy of rectum
+740,48.62,C0176848,Anterior resection of rectum with synchronous colostomy
+741,48.9,C0176856,Other operations on rectum and perirectal tissue
+742,48.93,C0193189,Repair of perirectal fistula
+743,482.1,C0155860,Pneumonia due to Pseudomonas
+744,482.2,C0276026,Pneumonia due to Hemophilus influenzae [H. influenzae]
+745,482.41,C2349529,Methicillin susceptible pneumonia due to Staphylococcus aureus
+746,482.42,C1142536,Methicillin resistant pneumonia due to Staphylococcus aureus
+747,482.49,C0695234,Other Staphylococcus pneumonia
+748,482.81,C0375327,Pneumonia due to anaerobes
+749,482.83,C0854248,Pneumonia due to other gram-negative bacteria
+750,482.9,C0004626,"Bacterial pneumonia, unspecified"
+751,485,C0006285,"Bronchopneumonia, organism unspecified"
+752,486,C0339951,"Pneumonia, organism unspecified"
+753,49.01,C0176858,Incision of perianal abscess
+754,49.39,C0176864,Other local excision or destruction of lesion or tissue of anus
+755,49.46,C0019108,Excision of hemorrhoids
+756,49.52,C0400250,Posterior anal sphincterotomy
+757,491.21,C4041147,Obstructive chronic bronchitis with (acute) exacerbation
+758,491.22,C1456131,Obstructive chronic bronchitis with acute bronchitis
+759,491.8,C0029544,Other chronic bronchitis
+760,492.8,C0029607,Other emphysema
+761,493.20,C0375333,"Chronic obstructive asthma, unspecified"
+762,493.22,C1176341,Chronic obstructive asthma with (acute) exacerbation
+763,493.90,C0155886,"Asthma, unspecified type, unspecified"
+764,496,C0302378,"Chronic airway obstruction, not elsewhere classified"
+765,50.11,C0176879,Closed (percutaneous) [needle] biopsy of liver
+766,50.12,C0193389,Open biopsy of liver
+767,507.0,C0260334,Pneumonitis due to inhalation of food or vomitus
+768,51,C0193436,Operations on gallbladder and biliary tract
+769,51.10,C0008310,Endoscopic retrograde cholangiopancreatography [ERCP]
+770,51.14,C0176900,Other closed [endoscopic] biopsy of biliary duct or sphincter of Oddi
+771,51.22,C0008320,Cholecystectomy
+772,51.23,C0162522,Laparoscopic cholecystectomy
+773,51.36,C0193558,Choledochoenterostomy
+774,51.37,C0193531,Anastomosis of hepatic duct to gastrointestinal tract
+775,51.41,C0176907,Common duct exploration for removal of calculus
+776,51.84,C0176921,Endoscopic dilation of ampulla and biliary duct
+777,51.85,C4317048,Endoscopic sphincterotomy and papillotomy
+778,51.87,C0176924,Endoscopic insertion of stent (tube) into bile duct
+779,51.88,C0176925,Endoscopic removal of stone(s) from biliary tract
+780,511.9,C0032227,Unspecified pleural effusion
+781,512.0,C0155907,Spontaneous tension pneumothorax
+782,512.1,C0375336,Iatrogenic pneumothorax
+783,512.8,C3161434,Other pneumothorax and air leak
+784,514,C0155910,Pulmonary congestion and hypostasis
+785,515,C0175999,Postinflammatory pulmonary fibrosis
+786,516.3,C0085786,Idiopathic interstitial pneumonia
+787,517.8,C0155917,Lung involvement in other diseases classified elsewhere
+788,518.0,C0004144,Pulmonary collapse
+789,518.5,C0034076,Pulmonary insufficiency following trauma and surgery
+790,518.51,C3161110,Acute respiratory failure following trauma and surgery
+791,518.81,C0264490,Acute respiratory failure
+792,518.83,C0264492,Chronic respiratory failure
+793,518.84,C0264491,Acute and chronic respiratory failure
+794,518.89,C0029579,"Other diseases of lung, not elsewhere classified"
+795,519.02,C0695237,Mechanical complication of tracheostomy
+796,519.1,C0869292,"Other diseases of trachea and bronchus, not elsewhere classified"
+797,519.8,C0869452,"Other diseases of respiratory system, not elsewhere classified"
+798,52,C0193594,Operations on pancreas
+799,52.14,C0176935,Closed [endoscopic] biopsy of pancreatic duct
+800,52.9,C0842217,Other operations on pancreas
+801,52.93,C0400522,Endoscopic insertion of stent (tube) into pancreatic duct
+802,521.00,C0011334,"Dental caries, unspecified"
+803,521.09,C0348719,Other dental caries
+804,522.0,C0034103,Pulpitis
+805,522.4,C0155934,Acute apical periodontitis of pulpal origin
+806,522.5,C0399424,Periapical abscess without sinus
+807,523.1,C0008684,Chronic gingivitis
+808,523.5,C0031106,Periodontosis
+809,523.6,C0011346,Accretions on teeth
+810,523.8,C0029821,Other specified periodontal diseases
+811,523.9,C0155936,Unspecified gingival and periodontal disease
+812,524.10,C0003110,"Anomalies of relationship of jaw to cranial base, unspecified anomaly"
+813,525.8,C0029790,Other specified disorders of the teeth and supporting structures
+814,526.81,C0155955,Exostosis of jaw
+815,528.9,C0029498,Other and unspecified diseases of the oral soft tissues
+816,529.8,C0155965,Other specified conditions of the tongue
+817,53.01,C2349539,Other and open repair of direct inguinal hernia
+818,53.03,C2349542,Other and open repair of direct inguinal hernia with graft or prosthesis
+819,53.04,C2349543,Other and open repair of indirect inguinal hernia with graft or prosthesis
+820,53.05,C0198742,"Repair of inguinal hernia with graft or prosthesis, not otherwise specified"
+821,53.1,C2349551,Other bilateral repair of inguinal hernia
+822,53.12,C2349546,Other and open bilateral repair of indirect inguinal hernia
+823,53.17,C0198745,"Bilateral inguinal hernia repair with graft or prosthesis, not otherwise specified"
+824,53.2,C0198760,Unilateral repair of femoral hernia
+825,53.21,C0198762,Unilateral repair of femoral hernia with graft or prosthesis
+826,530.10,C0014868,"Esophagitis, unspecified"
+827,530.11,C0014869,Reflux esophagitis
+828,530.19,C0375352,Other esophagitis
+829,530.2,C0151970,Ulcer of esophagus
+830,530.3,C4551650,Stricture and stenosis of esophagus
+831,530.5,C0014858,Dyskinesia of esophagus
+832,530.81,C0017168,Esophageal reflux
+833,530.85,C0004763,Barrett's esophagus
+834,531.40,C0155980,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction"
+835,531.9,C0400806,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation"
+836,531.90,C0400806,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction"
+837,532.40,C0156005,"Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction"
+838,532.90,C0489962,"Duodenal ulcer, unspecified as acute or chronic, without hemorrhage or perforation, without mention of obstruction"
+839,533.90,C0030924,"Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction"
+840,535.00,C0156070,"Acute gastritis, without mention of hemorrhage"
+841,535.10,C0156072,"Atrophic gastritis, without mention of hemorrhage"
+842,535.40,C0156079,"Other specified gastritis, without mention of hemorrhage"
+843,535.41,C0156080,"Other specified gastritis, with hemorrhage"
+844,535.50,C0156081,"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage"
+845,535.51,C0156082,"Unspecified gastritis and gastroduodenitis, with hemorrhage"
+846,535.60,C0156083,"Duodenitis, without mention of hemorrhage"
+847,536.42,C0695240,Mechanical complication of gastrostomy
+848,536.49,C0695241,Other gastrostomy complications
+849,536.8,C0013396,Dyspepsia and other specified disorders of function of stomach
+850,537.83,C0156091,Angiodysplasia of stomach and duodenum with hemorrhage
+851,537.89,C0348731,Other specified disorders of stomach and duodenum
+852,54,C0161915,Other operations on abdominal region
+853,54.0,C0198489,Incision of abdominal wall
+854,54.11,C0085704,Exploratory laparotomy
+855,54.12,C0405757,Reopening of recent laparotomy site
+856,54.19,C0029654,Other laparotomy
+857,54.21,C0031150,Laparoscopy
+858,54.22,C0701804,Biopsy of abdominal wall or umbilicus
+859,54.51,C0405808,Laparoscopic lysis of peritoneal adhesions
+860,54.59,C0375996,Other lysis of peritoneal adhesions
+861,54.61,C0198546,Reclosure of postoperative disruption of abdominal wall
+862,54.91,C0198497,Percutaneous abdominal drainage
+863,54.93,C0198644,Creation of cutaneoperitoneal fistula
+864,54.95,C0198593,Incision of peritoneum
+865,54.98,C0031139,Peritoneal dialysis
+866,544.3,,
+867,55,C0194053,Operations on kidney
+868,55.03,C0030990,Percutaneous nephrostomy without fragmentation
+869,55.23,C0843622,Closed [percutaneous] [needle] biopsy of kidney
+870,550.10,C0554123,"Inguinal hernia, with obstruction, without mention of gangrene, unilateral or unspecified (not specified as recurrent)"
+871,550.12,C0401080,"Inguinal hernia, with obstruction, without mention of gangrene, bilateral (not specified as recurrent)"
+872,550.90,C0156109,"Inguinal hernia, without mention of obstruction or gangrene, unilateral or unspecified (not specified as recurrent)"
+873,550.91,C0156110,"Inguinal hernia, without mention of obstruction or gangrene, unilateral or unspecified, recurrent"
+874,550.92,C0156111,"Inguinal hernia, without mention of obstruction or gangrene, bilateral (not specified as recurrent)"
+875,553.00,C0041688,"Femoral hernia without mention of obstruction of gangrene, unilateral or unspecified(not specified as recurrent)"
+876,553.3,C0494752,Diaphragmatic hernia without mention of obstruction or gangrene
+877,556.9,C0009324,"Ulcerative colitis, unspecified"
+878,557.0,C0001363,Acute vascular insufficiency of intestine
+879,558.9,C0029512,Other and unspecified noninfectious gastroenteritis and colitis
+880,56.0,C0194271,Transurethral removal of obstruction from ureter and renal pelvis
+881,56.31,C0194261,Ureteroscopy
+882,56.33,C0177008,Closed endoscopic biopsy of ureter
+883,56.51,C2937404,Formation of cutaneous uretero-ileostomy
+884,560.1,C0030446,Paralytic ileus
+885,560.2,C0042961,Volvulus
+886,560.39,C0029640,Other impaction of intestine
+887,560.81,C0156158,Intestinal or peritoneal adhesions with obstruction (postoperative) (postinfection)
+888,560.89,C0156157,Other specified intestinal obstruction
+889,562.10,C0156166,Diverticulosis of colon (without mention of hemorrhage)
+890,562.11,C0156167,Diverticulitis of colon (without mention of hemorrhage)
+891,562.12,C0156168,Diverticulosis of colon with hemorrhage
+892,564.00,C0009806,"Constipation, unspecified"
+893,565.0,C0016167,Anal fissure
+894,565.1,C0149889,Anal fistula
+895,566,C0267567,Abscess of anal and rectal regions
+896,567.22,C0267756,Peritoneal abscess
+897,567.89,C0029823,Other specified peritonitis
+898,568.0,C0375362,Peritoneal adhesions (postoperative) (postinfection)
+899,569.0,C0002753,Anal and rectal polyp
+900,569.3,C0019081,Hemorrhage of rectum and anus
+901,569.5,C0156185,Abscess of intestine
+902,569.83,C0021845,Perforation of intestine
+903,569.84,C0267367,Angiodysplasia of intestine (without mention of hemorrhage)
+904,569.89,C0348743,Other specified disorders of intestine
+905,57.0,C0040769,Transurethral clearance of bladder
+906,57.19,C0177027,Other cystotomy
+907,57.32,C0029568,Other cystoscopy
+908,57.33,C2239133,Closed [transurethral] biopsy of bladder
+909,57.49,C0177036,Other transurethral excision or destruction of lesion or tissue of bladder
+910,57.71,C0194401,Radical cystectomy
+911,57.81,C0010700,Suture of laceration of bladder
+912,57.91,C0177047,Sphincterotomy of bladder
+913,57.94,C0177049,Insertion of indwelling urinary catheter
+914,57.95,C0177050,Replacement of indwelling urinary catheter
+915,570,C0001308,Acute and subacute necrosis of liver
+916,571.2,C0023891,Alcoholic cirrhosis of liver
+917,571.3,C1442981,"Alcoholic liver damage, unspecified"
+918,571.40,C0019189,"Chronic hepatitis, unspecified"
+919,572.2,C0019151,Hepatic encephalopathy
+920,572.3,C0020541,Portal hypertension
+921,573.3,C0019158,"Hepatitis, unspecified"
+922,574.01,C0156201,"Calculus of gallbladder with acute cholecystitis, with obstruction"
+923,574.10,C0156203,"Calculus of gallbladder with other cholecystitis, without mention of obstruction"
+924,574.20,C0006742,"Calculus of gallbladder without mention of cholecystitis, without mention of obstruction"
+925,574.30,C0156207,"Calculus of bile duct with acute cholecystitis, without mention of obstruction"
+926,574.40,C0156210,"Calculus of bile duct with other cholecystitis, without mention of obstruction"
+927,574.60,C0375366,"Calculus of gallbladder and bile duct with acute cholecystitis, without mention of obstruction"
+928,574.61,C0375367,"Calculus of gallbladder and bile duct with acute cholecystitis, with obstruction"
+929,574.71,C0375370,"Calculus of gallbladder and bile duct with other cholecystitis, with obstruction"
+930,574.80,C0375372,"Calculus of gallbladder and bile duct with acute and chronic cholecystitis, without mention of obstruction"
+931,575.0,C0149520,Acute cholecystitis
+932,575.12,C0302472,Acute and chronic cholecystitis
+933,575.3,C0152445,Hydrops of gallbladder
+934,575.8,C0348758,Other specified disorders of gallbladder
+935,576.1,C0008311,Cholangitis
+936,576.2,C0008370,Obstruction of bile duct
+937,577.0,C0001339,Acute pancreatitis
+938,578.0,C0018926,Hematemesis
+939,578.1,C0018932,Blood in stool
+940,578.9,C0017181,"Hemorrhage of gastrointestinal tract, unspecified"
+941,579.0,C0007570,Celiac disease
+942,58.23,C0194564,Biopsy of urethra
+943,58.49,C0177063,Other repair of urethra
+944,58.5,C0194552,Release of urethral stricture
+945,58.6,C0194664,Dilation of urethra
+946,581.9,C0027730,Nephrotic syndrome with unspecified pathological lesion in kidney
+947,583.81,C0027699,"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere"
+948,584.5,C2712977,Acute kidney failure with lesion of tubular necrosis
+949,584.9,C0022660,"Acute kidney failure, unspecified"
+950,585,C1561643,Chronic kidney disease (CKD)
+951,585.3,C1561640,"Chronic kidney disease, Stage III (moderate)"
+952,585.4,C1561641,"Chronic kidney disease, Stage IV (severe)"
+953,585.6,C0022661,End stage renal disease
+954,585.9,C1561643,"Chronic kidney disease, unspecified"
+955,586,C0035078,"Renal failure, unspecified"
+956,588.8,C0029791,Other specified disorders resulting from impaired renal function
+957,588.81,C0271847,Secondary hyperparathyroidism (of renal origin)
+958,59,C0175598,Other operations on urinary tract
+959,59.8,C0041953,Ureteral catheterization
+960,59.95,C0401265,Ultrasonic fragmentation of urinary stones
+961,591,C0020295,Hydronephrosis
+962,592.0,C0022650,Calculus of kidney
+963,592.1,C0041952,Calculus of ureter
+964,593.3,C0156261,Stricture or kinking of ureter
+965,593.4,C0029866,Other ureteric obstruction
+966,593.89,C0029781,Other specified disorders of kidney and ureter
+967,593.9,C0268701,Unspecified disorder of kidney and ureter
+968,594.1,C0029529,Other calculus in bladder
+969,594.2,C0162301,Calculus in urethra
+970,595.1,C0600040,Chronic interstitial cystitis
+971,595.2,C0156268,Other chronic cystitis
+972,596.0,C0005694,Bladder neck obstruction
+973,596.54,C0005697,Neurogenic bladder NOS
+974,598.8,C0029752,Other specified causes of urethral stricture
+975,598.9,C4551691,"Urethral stricture, unspecified"
+976,599.0,C0042029,"Urinary tract infection, site not specified"
+977,599.3,C0152247,Urethral caruncle
+978,599.6,C0178879,Urinary obstruction
+979,599.7,C0018965,Hematuria
+980,60.0,C0194792,Incision of prostate
+981,60.11,C0401640,Closed [percutaneous] [needle] biopsy of prostate
+982,60.29,C0376005,Other transurethral prostatectomy
+983,60.9,C0175600,Other operations on prostate
+984,60.94,C0177094,Control of (postoperative) hemorrhage of prostate
+985,60.95,C0372415,Transurethral balloon dilation of the prostatic urethra
+986,600,C2937421,Hyperplasia of prostate
+987,600.0,C0005001,Hypertrophy (benign) of prostate
+988,600.00,C1719538,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)
+989,600.01,C1260419,Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)
+990,600.9,C2937421,"Hyperplasia of prostate, unspecified"
+991,601.1,C0085696,Chronic prostatitis
+992,602.1,C0156295,Congestion or hemorrhage of prostate
+993,603.8,C0029837,Other specified types of hydrocele
+994,603.9,C1720771,"Hydrocele, unspecified"
+995,608.3,C0156312,Atrophy of testis
+996,61,C0161926,Operations on scrotum and tunica vaginalis
+997,61.3,C0177101,Excision or destruction of lesion or tissue of scrotum
+998,62.3,C0194873,Unilateral orchiectomy
+999,62.5,C0194907,Orchiopexy
+1000,63,C0161928,"Operations on spermatic cord, epididymis, and vas deferens"
+1001,63.1,C0177119,Excision of varicocele and hydrocele of spermatic cord
+1002,63.3,C0177121,Excision of other lesion or tissue of spermatic cord and epididymis
+1003,63.4,C0194890,Epididymectomy
+1004,64.0,C0008819,Circumcision
+1005,64.2,C0177139,Local excision or destruction of lesion of penis
+1006,64.42,C0177141,Release of chordee
+1007,66,C0195463,Operations on fallopian tubes
+1008,68.1,C0200038,Diagnostic procedures on uterus and supporting structures
+1009,682.2,C0157698,Cellulitis and abscess of trunk
+1010,682.3,C0157699,Cellulitis and abscess of upper arm and forearm
+1011,682.6,C0157702,"Cellulitis and abscess of leg, except foot"
+1012,682.7,C0406089,"Cellulitis and abscess of foot, except toes"
+1013,692.74,C0375484,Other chronic dermatitis due to solar radiation
+1014,692.9,C0375487,"Contact dermatitis and other eczema, unspecified cause"
+1015,695.9,C0041834,Unspecified erythematous condition
+1016,697.8,C0868870,"Other lichen, not elsewhere classified"
+1017,698.3,C0023654,Lichenification and lichen simplex chronicus
+1018,700,C0157726,Corns and callosities
+1019,701.1,C0022581,"Keratoderma, acquired"
+1020,701.4,C0022548,Keloid scar
+1021,701.5,C0157729,Other abnormal granulation tissue
+1022,701.8,C0029805,Other specified hypertrophic and atrophic conditions of skin
+1023,701.9,C0041847,Unspecified hypertrophic and atrophic conditions of skin
+1024,702.0,C0022602,Actinic keratosis
+1025,702.11,C0376117,Inflamed seborrheic keratosis
+1026,702.19,C0375488,Other seborrheic keratosis
+1027,703.0,C0027343,Ingrowing nail
+1028,703.2,,
+1029,704.8,C0029769,Other specified diseases of hair and hair follicles
+1030,705.1,C0026113,Prickly heat
+1031,705.4,,
+1032,705.83,C0085160,Hidradenitis
+1033,706.2,C0014511,Sebaceous cyst
+1034,707.0,C0011127,Pressure ulcer
+1035,707.03,C1456141,"Pressure ulcer, lower back"
+1036,707.07,C0558158,"Pressure ulcer, heel"
+1037,707.09,C1456142,"Pressure ulcer, other site"
+1038,707.1,C2349630,"Ulcer of lower limbs, except pressure ulcer"
+1039,707.10,C0878700,"Ulcer of lower limb, unspecified"
+1040,707.11,C0878701,Ulcer of thigh
+1041,707.12,C0577719,Ulcer of calf
+1042,707.13,C0741085,Ulcer of ankle
+1043,707.14,C0878702,Ulcer of heel and midfoot
+1044,707.15,C0878703,Ulcer of other part of foot
+1045,707.19,C0878704,Ulcer of other part of lower limb
+1046,707.23,C2074668,"Pressure ulcer, stage III"
+1047,707.24,C2074669,"Pressure ulcer, stage IV"
+1048,707.8,C0157740,Chronic ulcer of other specified sites
+1049,709.00,C0151907,"Dyschromia, unspecified"
+1050,709.8,C0029788,Other specified disorders of skin
+1051,709.9,C0178298,Unspecified disorder of skin and subcutaneous tissue
+1052,710.1,C0036421,Systemic sclerosis
+1053,712.21,C0409871,"Chondrocalcinosis, due to pyrophosphate crystals, shoulder region"
+1054,714.0,C0003873,Rheumatoid arthritis
+1055,715.18,C0701814,"Osteoarthrosis, localized, primary, other specified sites"
+1056,715.31,C0157948,"Osteoarthrosis, localized, not specified whether primary or secondary, shoulder region"
+1057,715.35,C0157952,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh"
+1058,715.36,C0157953,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+1059,715.37,C0157954,"Osteoarthrosis, localized, not specified whether primary or secondary, ankle and foot"
+1060,715.90,C0157959,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified"
+1061,715.91,C0157960,"Osteoarthrosis, unspecified whether generalized or localized, shoulder region"
+1062,715.94,C0157963,"Osteoarthrosis, unspecified whether generalized or localized, hand"
+1063,715.96,C0157965,"Osteoarthrosis, unspecified whether generalized or localized, lower leg"
+1064,716.90,C0022408,"Arthropathy, unspecified, site unspecified"
+1065,716.91,C0158044,"Arthropathy, unspecified, shoulder region"
+1066,716.96,C0158049,"Arthropathy, unspecified, lower leg"
+1067,716.97,C0158050,"Arthropathy, unspecified, ankle and foot"
+1068,717.2,C0158056,Derangement of posterior horn of medial meniscus
+1069,717.3,C0158057,Other and unspecified derangement of medial meniscus
+1070,717.40,C0158058,"Derangement of lateral meniscus, unspecified"
+1071,717.42,C0158060,Derangement of anterior horn of lateral meniscus
+1072,717.43,C0158061,Derangement of posterior horn of lateral meniscus
+1073,717.49,C0158062,Other derangement of lateral meniscus
+1074,717.6,C0343161,Loose body in knee
+1075,717.7,C0008475,Chondromalacia of patella
+1076,718.01,C0263793,"Articular cartilage disorder, shoulder region"
+1077,718.11,C0158082,"Loose body in joint, shoulder region"
+1078,718.47,C1963664,"Contracture of joint, ankle and foot"
+1079,718.91,C0409278,"Unspecified derangement of joint, shoulder region"
+1080,719.06,C0158155,"Effusion of joint, lower leg"
+1081,719.26,C0409774,"Villonodular synovitis, lower leg"
+1082,719.43,C0838224,"Pain in joint, forearm"
+1083,719.45,C0838226,"Pain in joint, pelvic region and thigh"
+1084,719.46,C0838227,"Pain in joint, lower leg"
+1085,719.49,C0162296,"Pain in joint, multiple sites"
+1086,719.61,C0158206,"Other symptoms referable to joint, shoulder region"
+1087,719.86,C0158227,"Other specified disorders of joint, lower leg"
+1088,721.0,C0158241,Cervical spondylosis without myelopathy
+1089,721.1,C0158242,Cervical spondylosis with myelopathy
+1090,721.3,C0158244,Lumbosacral spondylosis without myelopathy
+1091,721.90,C0263851,"Spondylosis of unspecified site, without mention of myelopathy"
+1092,722.10,C0158255,Displacement of lumbar intervertebral disc without myelopathy
+1093,722.52,C0158265,Degeneration of lumbar or lumbosacral intervertebral disc
+1094,722.73,C0158270,"Intervertebral disc disorder with myelopathy, lumbar region"
+1095,722.83,C0158274,"Postlaminectomy syndrome, lumbar region"
+1096,722.93,C0158278,"Other and unspecified disc disorder, lumbar region"
+1097,723.0,C0158280,Spinal stenosis in cervical region
+1098,723.1,C0007859,Cervicalgia
+1099,723.4,C1442952,Brachial neuritis or radiculitis NOS
+1100,724.02,C2921108,"Spinal stenosis, lumbar region, without neurogenic claudication"
+1101,724.1,C0677061,Pain in thoracic spine
+1102,724.2,C0024031,Lumbago
+1103,724.4,C0158291,"Thoracic or lumbosacral neuritis or radiculitis, unspecified"
+1104,724.6,C0158292,Disorders of sacrum
+1105,724.8,C0158297,Other symptoms referable to back
+1106,725,C0032533,Polymyalgia rheumatica
+1107,726.0,C0311223,Adhesive capsulitis of shoulder
+1108,726.10,C0158302,"Disorders of bursae and tendons in shoulder region, unspecified"
+1109,726.2,C0869438,"Other affections of shoulder region, not elsewhere classified"
+1110,726.33,C0263962,Olecranon bursitis
+1111,726.5,C0158312,Enthesopathy of hip region
+1112,726.65,C0851258,Prepatellar bursitis
+1113,726.90,C0242490,Enthesopathy of unspecified site
+1114,726.91,C1442903,Exostosis of unspecified site
+1115,727.00,C0039104,"Synovitis and tenosynovitis, unspecified"
+1116,727.1,C0006386,Bunion
+1117,727.51,C0032650,Synovial cyst of popliteal space
+1118,727.61,C0410017,Complete rupture of rotator cuff
+1119,727.62,C0158342,Nontraumatic rupture of tendons of biceps (long head)
+1120,727.81,C0158350,Contracture of tendon (sheath)
+1121,728.85,C0037763,Spasm of muscle
+1122,728.86,C0238124,Necrotizing fasciitis
+1123,728.88,C0035410,Rhabdomyolysis
+1124,729.1,C0026893,"Myalgia and myositis, unspecified"
+1125,729.2,C0347894,"Neuralgia, neuritis, and radiculitis, unspecified"
+1126,729.5,C0030196,Pain in limb
+1127,729.81,C0158369,Swelling of limb
+1128,729.89,C0029669,Other musculoskeletal symptoms referable to limbs
+1129,730.05,C1963552,"Acute osteomyelitis, pelvic region and thigh"
+1130,730.07,C0264039,"Acute osteomyelitis, ankle and foot"
+1131,730.08,C0410385,"Acute osteomyelitis, other specified sites"
+1132,730.17,C0264049,"Chronic osteomyelitis, ankle and foot"
+1133,730.27,C0158396,"Unspecified osteomyelitis, ankle and foot"
+1134,730.28,C0410376,"Unspecified osteomyelitis, other specified sites"
+1135,731.8,C0158440,Other bone involvement in diseases classified elsewhere
+1136,732.7,C0029421,Osteochondritis dissecans
+1137,733.00,C0029456,"Osteoporosis, unspecified"
+1138,733.13,C0302491,Pathologic fracture of vertebrae
+1139,733.19,C0375509,Pathologic fracture of other specified site
+1140,733.49,C0158452,"Aseptic necrosis of bone, other"
+1141,733.82,C0016665,Nonunion of fracture
+1142,733.92,C0085700,Chondromalacia
+1143,735.0,C0158458,Hallux valgus (acquired)
+1144,735.4,C0477572,Other hammer toe (acquired)
+1145,736.00,C0041784,"Unspecified deformity of forearm, excluding fingers"
+1146,736.72,C0158490,"Equinus deformity of foot, acquired"
+1147,738.4,C2242765,Acquired spondylolisthesis
+1148,743.65,C0158577,Specified congenital anomalies of lacrimal passages
+1149,746.85,C0158623,Coronary artery anomaly
+1150,75.71,,
+1151,75.76,,
+1152,752.51,C0010417,Undescended testis
+1153,753.10,C0311245,"Cystic kidney disease, unspecified"
+1154,753.3,C0478058,Other specified anomalies of kidney
+1155,76.64,C0177312,Other orthognathic surgery on mandible
+1156,77.28,C0188601,"Wedge osteotomy, tarsals and metatarsals"
+1157,77.51,C0188585,Bunionectomy with soft tissue correction and osteotomy of the first metatarsal
+1158,77.53,C0188743,Other bunionectomy with soft tissue correction
+1159,77.56,C0188725,Repair of hammer toe
+1160,77.59,C0177355,Other bunionectomy
+1161,77.61,C0177357,"Local excision of lesion or tissue of bone, scapula, clavicle, and thorax [ribs and sternum]"
+1162,77.62,C0186485,"Local excision of lesion or tissue of bone, humerus"
+1163,77.63,C0186550,"Local excision of lesion or tissue of bone, radius and ulna"
+1164,77.65,C0187857,"Local excision of lesion or tissue of bone, femur"
+1165,77.66,C0187893,"Local excision of lesion or tissue of bone, patella"
+1166,77.67,C0187936,"Local excision of lesion or tissue of bone, tibia and fibula"
+1167,77.79,C0177362,"Excision of bone for graft, other bones"
+1168,77.81,C0177364,"Other partial ostectomy, scapula, clavicle, and thorax [ribs and sternum]"
+1169,77.82,C0177365,"Other partial ostectomy, humerus"
+1170,77.83,C0177366,"Other partial ostectomy, radius and ulna"
+1171,77.85,C0177368,"Other partial ostectomy, femur"
+1172,77.88,C0177371,"Other partial ostectomy, tarsals and metatarsals"
+1173,77.89,C0177372,"Other partial ostectomy, other bones"
+1174,78.59,C0177418,"Internal fixation of bone without fracture reduction, other bones"
+1175,78.61,C0177421,"Removal of implanted devices from bone, scapula, clavicle, and thorax [ribs and sternum]"
+1176,78.65,C0177425,"Removal of implanted devices from bone, femur"
+1177,78.68,C0177428,"Removal of implanted devices from bone, tarsals and metatarsals"
+1178,78.75,C0188292,"Osteoclasis, femur"
+1179,780.02,C0221539,Transient alteration of awareness
+1180,780.09,C0221540,Other alteration of consciousness
+1181,780.2,C0039070,Syncope and collapse
+1182,780.39,C0490011,Other convulsions
+1183,780.4,C0476206,Dizziness and giddiness
+1184,780.52,C0917801,"Insomnia, unspecified"
+1185,780.53,C1561815,"Hypersomnia with sleep apnea, unspecified"
+1186,780.57,C0037315,Unspecified sleep apnea
+1187,780.6,C2349675,Fever and other physiologic disturbances of temperature regulation
+1188,780.79,C0695252,Other malaise and fatigue
+1189,780.9,C0029625,Other general symptoms
+1190,780.97,C0278061,Altered mental status
+1191,780.99,C0029625,Other general symptoms
+1192,781.0,C0392702,Abnormal involuntary movements
+1193,781.2,C0575081,Abnormality of gait
+1194,781.92,C0231471,Abnormal posture
+1195,781.94,C0427055,Facial weakness
+1196,781.99,C0159036,Other symptoms involving nervous and musculoskeletal systems
+1197,782.0,C0012766,Disturbance of skin sensation
+1198,782.1,C0015230,Rash and other nonspecific skin eruption
+1199,782.3,C0013604,Edema
+1200,782.4,C0476232,"Jaundice, unspecified, not of newborn"
+1201,782.5,C0010520,Cyanosis
+1202,783.21,C1262477,Loss of weight
+1203,783.4,C0878753,Lack of expected normal physiological development in childhood
+1204,784.0,C0018681,Headache
+1205,784.41,C0003564,Aphonia
+1206,784.5,C0478144,Other speech disturbance
+1207,785,C0159049,Symptoms involving cardiovascular system
+1208,785.4,C0017086,Gangrene
+1209,785.50,C0036974,"Shock, unspecified"
+1210,785.51,C0036980,Cardiogenic shock
+1211,785.52,C0036983,Septic shock
+1212,785.59,C0029737,Other shock without mention of trauma
+1213,785.6,C0497156,Enlargement of lymph nodes
+1214,785.9,C0029854,Other symptoms involving cardiovascular system
+1215,786.05,C0013404,Shortness of breath
+1216,786.09,C0029601,Other respiratory abnormalities
+1217,786.3,C0019079,Hemoptysis
+1218,786.50,C0008031,"Chest pain, unspecified"
+1219,786.51,C0232286,Precordial pain
+1220,786.52,C0423729,Painful respiration
+1221,786.59,C0029537,Other chest pain
+1222,787.01,C0027498,Nausea with vomiting
+1223,787.02,C0375548,Nausea alone
+1224,787.03,C0728950,Vomiting alone
+1225,787.2,C0011168,Dysphagia
+1226,787.3,C0016205,"Flatulence, eructation, and gas pain"
+1227,787.91,C0011991,Diarrhea
+1228,788.20,C0080274,"Retention of urine, unspecified"
+1229,788.5,C0028962,Oliguria and anuria
+1230,788.69,C0159063,Other abnormality of urination
+1231,789.00,C0000737,"Abdominal pain, unspecified site"
+1232,789.02,C0238552,"Abdominal pain, left upper quadrant"
+1233,789.05,C1096624,"Abdominal pain, periumbilic"
+1234,789.06,C0232493,"Abdominal pain, epigastric"
+1235,789.09,C0375555,"Abdominal pain, other specified site"
+1236,789.5,C0003962,Ascites
+1237,789.59,C1955521,Other ascites
+1238,789.62,C0238566,"Abdominal tenderness, left upper quadrant"
+1239,79.01,C0392808,"Closed reduction of fracture without internal fixation, humerus"
+1240,79.06,C1455880,"Closed reduction of fracture without internal fixation, tibia and fibula"
+1241,79.24,C0177459,"Open reduction of fracture without internal fixation, phalanges of hand"
+1242,79.34,C0187501,"Open reduction of fracture with internal fixation, phalanges of hand"
+1243,79.35,C0188109,"Open reduction of fracture with internal fixation, femur"
+1244,79.63,C0177470,"Debridement of open fracture site, carpals and metacarpals"
+1245,79.64,C0187303,"Debridement of open fracture site, phalanges of hand"
+1246,79.71,C0186986,Closed reduction of dislocation of shoulder
+1247,790.2,C0580546,Abnormal glucose
+1248,790.5,C0159072,Other nonspecific abnormal serum enzyme levels
+1249,790.6,C0029481,Other abnormal blood chemistry
+1250,790.7,C0004610,Bacteremia
+1251,793.2,C0159088,Nonspecific (abnormal) findings on radiological and other examination of other intrathoracic organs
+1252,793.5,C0476376,Nonspecific (abnormal) findings on radiological and other examination of genitourinary organs
+1253,794.30,C0476409,"Abnormal cardiovascular function study, unspecified"
+1254,794.31,C0236140,Nonspecific abnormal electrocardiogram [ECG] [EKG]
+1255,794.39,C2711989,Other nonspecific abnormal results of function study of cardiovascular system
+1256,796.2,C0392682,Elevated blood pressure reading without diagnosis of hypertension
+1257,799.0,C1561822,Asphyxia and hypoxemia
+1258,799.1,C0003578,Respiratory arrest
+1259,799.3,C3714552,"Debility, unspecified"
+1260,80.04,C2712589,"Arthrotomy for removal of prosthesis without replacement, hand and finger"
+1261,80.05,C2712590,"Arthrotomy for removal of prosthesis without replacement, hip"
+1262,80.06,C2712591,"Arthrotomy for removal of prosthesis without replacement, knee"
+1263,80.07,C2712592,"Arthrotomy for removal of prosthesis without replacement, ankle"
+1264,80.08,C2712593,"Arthrotomy for removal of prosthesis without replacement, foot and toe"
+1265,80.11,C0177494,"Other arthrotomy, shoulder"
+1266,80.16,C0177499,"Other arthrotomy, knee"
+1267,80.18,C0177501,"Other arthrotomy, foot and toe"
+1268,80.20,C0376070,"Arthroscopy, unspecified site"
+1269,80.21,C0559702,"Arthroscopy, shoulder"
+1270,80.26,C1304878,"Arthroscopy, knee"
+1271,80.41,C0177508,"Division of joint capsule, ligament, or cartilage, shoulder"
+1272,80.51,C0206078,Excision of intervertebral disc
+1273,80.54,C2349715,Other and unspecified repair of the anulus fibrosus
+1274,80.6,C0187901,Excision of semilunar cartilage of knee
+1275,80.71,C0186418,"Synovectomy, shoulder"
+1276,80.73,C0187195,"Synovectomy, wrist"
+1277,80.74,C0177519,"Synovectomy, hand and finger"
+1278,80.76,C0187903,"Synovectomy, knee"
+1279,80.81,C0177522,"Other local excision or destruction of lesion of joint, shoulder"
+1280,80.83,C0177524,"Other local excision or destruction of lesion of joint, wrist"
+1281,80.86,C0177527,"Other local excision or destruction of lesion of joint, knee"
+1282,80.96,C0177537,"Other excision of joint, knee"
+1283,800.21,C0159160,"Closed fracture of vault of skull with subarachnoid, subdural, and extradural hemorrhage, with no loss of consciousness"
+1284,801.01,C0159233,"Closed fracture of base of skull without mention of intra cranial injury, with no loss of consciousness"
+1285,802.0,C0159322,Closed fracture of nasal bones
+1286,802.4,C0009045,Closed fracture of malar and maxillary bones
+1287,805.4,C0859697,Closed fracture of lumbar vertebra without mention of spinal cord injury
+1288,806.21,C0435439,Closed fracture of T1-T6 level with complete lesion of cord
+1289,807.00,C0435750,"Closed fracture of rib(s), unspecified"
+1290,81.00,C0037935,"Spinal fusion, not otherwise specified"
+1291,81.01,C0186005,Atlas-axis spinal fusion
+1292,81.02,C0177542,"Other cervical fusion of the anterior column, anterior technique"
+1293,81.07,C2921160,"Lumbar and lumbosacral fusion of the posterior column, posterior technique"
+1294,81.08,C2921167,"Lumbar and lumbosacral fusion of the anterior column, posterior technique"
+1295,81.16,C0188832,Metatarsophalangeal fusion
+1296,81.45,C0177559,Other repair of the cruciate ligaments
+1297,81.47,C0177561,Other repair of knee
+1298,81.63,C1260382,Fusion or refusion of 4-8 vertebrae
+1299,81.82,C0186659,Repair of recurrent dislocation of shoulder
+1300,81.83,C0177571,Other repair of shoulder
+1301,81.91,C0204854,Arthrocentesis
+1302,81.92,C0177573,Injection of therapeutic substance into joint or ligament
+1303,81.93,C0177574,Suture of capsule or ligament of upper extremity
+1304,811.01,C0159669,Closed fracture of acromial process of scapula
+1305,812.01,C0159680,Closed fracture of surgical neck of humerus
+1306,813.41,C0009354,Closed Colles' fracture
+1307,816.10,C0159796,"Open fracture of phalanx or phalanges of hand, unspecified"
+1308,816.11,C0159798,Open fracture of middle or proximal phalanx or phalanges of hand
+1309,816.12,C0159799,Open fracture of distal phalanx or phalanges of hand
+1310,817.1,C0159803,Multiple open fractures of hand bones
+1311,82.0,C0177578,"Incision of muscle, tendon, fascia, and bursa of hand"
+1312,82.15,,
+1313,82.2,C0177583,"Excision of lesion of muscle, tendon, and fascia of hand"
+1314,82.27,,
+1315,82.29,C0177584,Excision of other lesion of soft tissue of hand
+1316,82.4,C0177589,"Suture of muscle, tendon, and fascia of hand"
+1317,82.44,C0177592,Other suture of flexor tendon of hand
+1318,82.45,C0177593,Other suture of other tendon of hand
+1319,82.5,C0177595,Transplantation of muscle and tendon of hand
+1320,82.55,C0177596,Other change in hand muscle or tendon length
+1321,82.79,C0177606,Plastic operation on hand with other graft or implant
+1322,82.91,C0187661,Lysis of adhesions of hand
+1323,820.09,C0159815,Other closed transcervical fracture of neck of femur
+1324,820.21,C0159824,Closed fracture of intertrochanteric section of neck of femur
+1325,821.30,C0159844,"Open fracture of lower end of femur, unspecified part"
+1326,824.4,C0392611,"Bimalleolar fracture, closed"
+1327,83.13,C0177616,Other tenotomy
+1328,83.14,C0185188,Fasciotomy
+1329,83.3,C0177620,"Excision of lesion of muscle, tendon, fascia, and bursa"
+1330,83.39,C0177621,Excision of lesion of other soft tissue
+1331,83.42,C0177623,Other tenonectomy
+1332,83.43,C0846400,Excision of muscle or fascia for graft
+1333,83.45,C0177626,Other myectomy
+1334,83.5,C0185298,Bursectomy
+1335,83.6,C0177628,"Suture of muscle, tendon, and fascia"
+1336,83.63,C0186666,Rotator cuff repair
+1337,83.64,C0177629,Other suture of tendon
+1338,83.65,C0177630,Other suture of muscle or fascia
+1339,83.69,,
+1340,83.8,C0177635,"Other plastic operations on muscle, tendon, and fascia"
+1341,83.82,C0177636,Graft of muscle or fascia
+1342,83.85,C0177637,Other change in muscle or tendon length
+1343,831.01,C0159917,Closed anterior dislocation of humerus
+1344,836.0,C1281729,"Tear of medial cartilage or meniscus of knee, current"
+1345,836.1,C1281794,"Tear of lateral cartilage or meniscus of knee, current"
+1346,839.03,C0160011,"Closed dislocation, third cervical vertebra"
+1347,839.04,C0160012,"Closed dislocation, fourth cervical vertebra"
+1348,839.05,C0160013,"Closed dislocation, fifth cervical vertebra"
+1349,84.01,C0177646,Amputation and disarticulation of finger
+1350,84.02,C0701842,Amputation and disarticulation of thumb
+1351,84.11,C0188602,Amputation of toe
+1352,84.15,C0177649,Other amputation below knee
+1353,84.17,C0002691,Amputation above knee
+1354,84.2,C0408884,Reattachment of extremity
+1355,84.3,C0185432,Revision of amputation stump
+1356,84.4,C0185505,Implantation or fitting of prosthetic limb device
+1357,84.44,C0186562,Implantation of prosthetic device of arm
+1358,840.4,C0434322,Rotator cuff (capsule) sprain
+1359,840.7,C0949149,Superior glenoid labrum lesion
+1360,840.8,C0160053,Sprains and strains of other specified sites of shoulder and upper arm
+1361,842.10,C0160068,"Sprain of hand, unspecified site"
+1362,844.2,C0160082,Sprain of cruciate ligament of knee
+1363,845,C0160086,Sprains and strains of ankle and foot
+1364,846.9,C0160105,Sprain of unspecified site of sacroiliac region
+1365,847.0,C0027535,Sprain of neck
+1366,847.2,C0160108,Sprain of lumbar
+1367,85.02,,
+1368,85.2,C0376083,Excision or destruction of breast tissue
+1369,85.65,,
+1370,85.9,C0177680,Other operations on the breast
+1371,850.0,C0160121,Concussion with no loss of consciousness
+1372,850.9,C0006107,"Concussion, unspecified"
+1373,852.21,C0160239,"Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness"
+1374,86.04,C0177688,Other incision with drainage of skin and subcutaneous tissue
+1375,86.05,C1455955,Incision with removal of foreign body or device from skin and subcutaneous tissue
+1376,86.06,C0177690,Insertion of totally implantable infusion pump
+1377,86.07,C0177691,Insertion of totally implantable vascular access device [VAD]
+1378,86.09,C0177692,Other incision of skin and subcutaneous tissue
+1379,86.11,C2921183,Closed biopsy of skin and subcutaneous tissue
+1380,86.22,C0177697,"Excisional debridement of wound, infection, or burn"
+1381,86.24,C0177699,Chemosurgery of skin
+1382,86.27,C0191729,"Debridement of nail, nail bed, or nail fold"
+1383,86.28,C0177701,"Nonexcisional debridement of wound, infection or burn"
+1384,86.3,C0177702,Other local excision or destruction of lesion or tissue of skin and subcutaneous tissue
+1385,86.4,C0191326,Radical excision of skin lesion
+1386,86.59,C0994533,Closure of skin and subcutaneous tissue of other sites
+1387,86.62,C0177706,Other skin graft to hand
+1388,86.67,C0795778,Dermal regenerative graft
+1389,86.69,C0029739,Other skin graft to other sites
+1390,86.74,C0177713,Attachment of pedicle or flap graft to other sites
+1391,86.75,C0177714,Revision of pedicle or flap graft
+1392,86.89,C0177715,Other repair and reconstruction of skin and subcutaneous tissue
+1393,86.91,C0191472,Excision of skin for graft
+1394,860.0,C0347620,Traumatic pneumothorax without mention of open wound into thorax
+1395,861.21,C0160329,Contusion of lung without mention of open wound into thorax
+1396,863.99,C0160389,"Injury to other gastrointestinal sites, with open wound into cavity"
+1397,865.01,C0160408,"Injury to spleen without mention of open wound into cavity, hematoma without rupture of capsule"
+1398,865.03,C0160410,"Injury to spleen without mention of open wound into cavity, laceration extending into parenchyma"
+1399,867.0,C0160432,"Injury to bladder and urethra, without mention of open wound into cavity"
+1400,868.04,C0160448,"Injury to other intra-abdominal organs without mention of open wound into cavity, retroperitoneum"
+1401,87.0,C0202678,"Soft tissue x-ray of face, head, and neck"
+1402,87.03,C0202691,Computerized axial tomography of head
+1403,87.11,C0202777,Full-mouth x-ray of teeth
+1404,87.12,C0029572,Other dental x-ray
+1405,87.21,C0026995,Contrast myelogram
+1406,87.22,C0177727,Other x-ray of cervical spine
+1407,87.23,C0177728,Other x-ray of thoracic spine
+1408,87.24,C0177729,Other x-ray of lumbosacral spine
+1409,87.3,C0202830,Soft tissue x-ray of thorax
+1410,87.39,C0177733,Other soft tissue x-ray of chest wall
+1411,87.41,C0202823,Computerized axial tomography of thorax
+1412,87.43,C0202819,"X-ray of ribs, sternum, and clavicle"
+1413,87.44,C0202784,"Routine chest x-ray, so described"
+1414,87.49,C0177737,Other chest x-ray
+1415,87.53,C0203083,Intraoperative cholangiogram
+1416,87.54,C0029538,Other cholangiogram
+1417,87.59,C0177740,Other biliary tract x-ray
+1418,87.61,C0203065,Barium swallow
+1419,87.66,C0009926,Contrast pancreatogram
+1420,87.69,C0177743,Other digestive tract x-ray
+1421,87.72,C0177745,Other nephrotomogram
+1422,87.74,C0203110,Retrograde pyelogram
+1423,87.75,C0177746,Percutaneous pyelogram
+1424,87.77,C0177747,Other cystogram
+1425,87.79,C0177749,Other x-ray of the urinary system
+1426,873.0,C0273259,"Open wound of scalp, without mention of complication"
+1427,873.20,C0273260,"Open wound of nose, unspecified site, without mention of complication"
+1428,873.40,C0375654,"Open wound of face, unspecified site, without mention of complication"
+1429,873.42,C0273268,"Open wound of forehead, without mention of complication"
+1430,873.43,C0273270,"Open wound of lip, without mention of complication"
+1431,873.44,C0273271,"Open wound of jaw, without mention of complication"
+1432,873.60,C0375659,"Open wound of mouth, unspecified site, without mention of complication"
+1433,873.63,C0375662,"Open wound of tooth (broken) (fractured) (due to trauma), without mention of complication"
+1434,873.64,C0375663,"Open wound of tongue and floor of mouth, without mention of complication"
+1435,873.69,C0490059,"Open wound of other and multiple sites of mouth, without mention of complication"
+1436,873.8,C0160536,Other and unspecified open wound of head without mention of complication
+1437,875.0,C0273313,"Open wound of chest (wall), without mention of complication"
+1438,879.4,C0160577,"Open wound of abdominal wall, lateral, without mention of complication"
+1439,879.8,C0273236,"Open wound(s) (multiple) of unspecified site(s), without mention of complication"
+1440,88,C0412755,Other diagnostic radiology and related techniques
+1441,88.01,C0412620,Computerized axial tomography of abdomen
+1442,88.09,C0177763,Other soft tissue x-ray of abdominal wall
+1443,88.19,C0029874,Other x-ray of abdomen
+1444,88.22,C0203238,Skeletal x-ray of elbow and forearm
+1445,88.23,C0203243,Skeletal x-ray of wrist and hand
+1446,88.26,C0177771,Other skeletal x-ray of pelvis and hip
+1447,88.35,C0177776,Other soft tissue x-ray of upper limb
+1448,88.38,C0177779,Other computerized axial tomography
+1449,88.41,C0007767,Arteriography of cerebral arteries
+1450,88.42,C0003515,Aortography
+1451,88.43,C0202910,Arteriography of pulmonary arteries
+1452,88.44,C0177780,Arteriography of other intrathoracic vessels
+1453,88.45,C0202930,Arteriography of renal arteries
+1454,88.47,C0177782,Arteriography of other intra-abdominal arteries
+1455,88.48,C0177783,Arteriography of femoral and other lower extremity arteries
+1456,88.49,C0177784,Arteriography of other specified sites
+1457,88.51,C0202968,Angiocardiography of venae cavae
+1458,88.53,C0202857,Angiocardiography of left heart structures
+1459,88.54,C0202858,Combined right and left heart angiocardiography
+1460,88.55,C0202860,Coronary arteriography using a single catheter
+1461,88.56,C0202861,Coronary arteriography using two catheters
+1462,88.57,C0177789,Other and unspecified coronary arteriography
+1463,88.6,C0031545,Phlebography
+1464,88.60,C0376091,"Phlebography using contrast material, unspecified site"
+1465,88.66,C0177795,Phlebography of femoral and other lower extremity veins using contrast material
+1466,88.67,C0177796,Phlebography of other specified sites using contrast material
+1467,88.7,C0041618,Diagnostic ultrasound
+1468,88.71,C0011931,Diagnostic ultrasound of head and neck
+1469,88.72,C0013516,Diagnostic ultrasound of heart
+1470,88.75,C0203407,Diagnostic ultrasound of urinary system
+1471,88.76,C0203474,Diagnostic ultrasound of abdomen and retroperitoneum
+1472,88.77,C0412527,Diagnostic ultrasound of peripheral vascular system
+1473,88.79,C0177800,Other diagnostic ultrasound
+1474,88.91,C0412675,Magnetic resonance imaging of brain and brain stem
+1475,88.93,C2454646,Magnetic resonance imaging of spinal canal
+1476,88.94,C0202673,Magnetic resonance imaging of musculoskeletal
+1477,88.97,C0024486,Magnetic resonance imaging of other and unspecified sites
+1478,880.00,C0273354,"Open wound of shoulder region, without mention of complication"
+1479,880.02,C0160587,"Open wound of axillary region, without mention of complication"
+1480,881.00,C0160604,"Open wound of forearm, without mention of complication"
+1481,881.01,C0160605,"Open wound of elbow, without mention of complication"
+1482,881.20,C0160612,"Open wound of forearm, with tendon involvement"
+1483,882.0,C0160616,"Open wound of hand except finger(s) alone, without mention of complication"
+1484,883.0,C0273365,"Open wound of finger(s), without mention of complication"
+1485,883.1,C0160621,"Open wound of finger(s), complicated"
+1486,883.2,C0160622,"Open wound of finger(s), with tendon involvement"
+1487,884.0,C0160623,"Multiple and unspecified open wound of upper limb, without mention of complication"
+1488,885.0,C0433638,"Traumatic amputation of thumb (complete)(partial), without mention of complication"
+1489,89.02,C0177807,"Interview and evaluation, described as limited"
+1490,89.03,C0177808,"Interview and evaluation, described as comprehensive"
+1491,89.04,C0177809,Other interview and evaluation
+1492,89.06,C0199177,"Consultation, described as limited"
+1493,89.14,C0013819,Electroencephalogram
+1494,89.29,C0177820,Other nonoperative genitourinary system measurements
+1495,89.31,C0176003,Dental examination
+1496,89.32,C0199873,Esophageal manometry
+1497,89.34,C1384593,Digital examination of rectum
+1498,89.38,C0029677,Other nonoperative respiratory measurements
+1499,89.39,C0029675,Other nonoperative measurements and examinations
+1500,89.41,C0430458,Cardiovascular stress test using treadmill
+1501,89.44,C0177823,Other cardiovascular stress test
+1502,89.45,C0199699,Artificial pacemaker rate check
+1503,89.49,C1455852,Automatic implantable cardioverter/defibrillator (AICD) check
+1504,89.52,C0013798,Electrocardiogram
+1505,89.54,C0177831,Electrographic monitoring
+1506,89.59,C0029674,Other nonoperative cardiac and vascular measurements
+1507,89.61,C0150460,Systemic arterial pressure monitoring
+1508,89.62,C0420201,Central venous pressure monitoring
+1509,89.63,C0199629,Pulmonary artery pressure monitoring
+1510,89.64,C0204916,Pulmonary artery wedge monitoring
+1511,89.65,C0150411,Measurement of systemic arterial blood gases
+1512,89.67,C0199624,Monitoring of cardiac output by oxygen consumption technique
+1513,89.68,C0199627,Monitoring of cardiac output by other technique
+1514,891.0,C0160647,"Open wound of knee, leg [except thigh], and ankle, without mention of complication"
+1515,891.1,C0160648,"Open wound of knee, leg [except thigh], and ankle, complicated"
+1516,892.1,C0160652,"Open wound of foot except toe(s) alone, complicated"
+1517,90.47,,
+1518,90.59,C0177883,"Microscopic examination of blood, other microscopic examination"
+1519,90.63,C0177887,"Microscopic examination of specimen from spleen and of bone marrow, culture and sensitivity"
+1520,90.71,C0177893,"Microscopic examination of specimen from lymph node and of lymph, bacterial smear"
+1521,90.73,C0177895,"Microscopic examination of specimen from lymph node and of lymph, culture and sensitivity"
+1522,90.81,C0177901,"Microscopic examination of specimen from upper gastrointestinal tract and of vomitus, bacterial smear"
+1523,903.2,C0160748,Injury to radial blood vessels
+1524,903.5,C0160751,Injury to digital blood vessels
+1525,903.9,C0160742,Injury to unspecified blood vessel of upper extremity
+1526,905.0,C0160774,Late effect of fracture of skull and face bones
+1527,905.2,C0436099,Late effect of fracture of upper extremities
+1528,91.63,C0177967,"Microscopic examination of specimen from skin and other integument, culture and sensitivity"
+1529,910.0,C0160819,"Abrasion or friction burn of face, neck, and scalp except eye, without mention of infection"
+1530,911.0,C0160830,"Abrasion or friction burn of trunk, without mention of infection"
+1531,914.0,C0160863,"Abrasion or friction burn of hand(s) except finger(s) alone, without mention of infection"
+1532,916.0,C0160885,"Abrasion or friction burn of hip, thigh, leg, and ankle, without mention of infection"
+1533,919.0,C0000827,"Abrasion or friction burn of other, multiple, and unspecified sites, without mention of infection"
+1534,92.02,C4552054,Liver scan and radioisotope function study
+1535,92.03,C0412412,Renal scan and radioisotope function study
+1536,92.05,C0177997,Cardiovascular and hematopoietic scan and radioisotope function study
+1537,92.14,C0203668,Bone scan
+1538,92.18,C0203669,Total body scan
+1539,92.24,C0203549,Teleradiotherapy using photons
+1540,92.27,C0178006,Implantation or insertion of radioactive elements
+1541,92.29,C0178007,Other radiotherapeutic procedure
+1542,92.526GN,,
+1543,92.55,,
+1544,92.610GN,,
+1545,921.9,C0438624,Unspecified contusion of eye
+1546,922.1,C0160925,Contusion of chest wall
+1547,922.2,C0160926,Contusion of abdominal wall
+1548,922.31,C0160927,Contusion of back
+1549,923.11,C0432763,Contusion of elbow
+1550,924.01,C0160950,Contusion of hip
+1551,924.8,C0160960,"Contusion of multiple sites, not elsewhere classified"
+1552,93.00,,
+1553,93.01,C0278372,Functional evaluation
+1554,93.10,,
+1555,93.12,C0178012,Other active musculoskeletal exercise
+1556,93.19,C0162218,"Exercise, not elsewhere classified"
+1557,93.22,C0203968,Ambulation and gait training
+1558,93.26,C0203924,Manual rupture of joint adhesions
+1559,93.36,C0203981,Cardiac retraining
+1560,93.38,C0203909,Combined physical therapy without mention of the components
+1561,93.39,C0029709,Other physical therapy
+1562,93.45,C0178030,Thomas' splint traction
+1563,93.46,C0178031,Other skin traction of limbs
+1564,93.51,C0178033,Application of plaster jacket
+1565,93.53,C0687122,Application of other cast
+1566,93.54,C0204861,Application of splint
+1567,93.55,C0178036,Dental wiring
+1568,93.56,C0556856,Application of pressure dressing
+1569,93.57,C0003627,Application of other wound dressing
+1570,93.59,C0178032,"Other immobilization, pressure, and attention to wound"
+1571,93.75,C0029846,Other speech training and therapy
+1572,93.81,C0034873,Recreation therapy
+1573,93.83,C1318464,Occupational therapy
+1574,93.90,C2349740,Non-invasive mechanical ventilation
+1575,93.94,C0199447,Respiratory medication administered by nebulizer
+1576,93.95,C0020431,Hyperbaric oxygenation
+1577,93.96,C0178049,Other oxygen enrichment
+1578,93.99,C0344213,Other respiratory procedures
+1579,94.19,C0178059,Other psychiatric interview and evaluation
+1580,94.23,C1281543,Neuroleptic therapy
+1581,94.25,C0178060,Other psychiatric drug therapy
+1582,94.27,C0029606,Other electroshock therapy
+1583,94.33,C0004933,Behavior therapy
+1584,94.4,C0178062,Other psychotherapy and counselling
+1585,94.44,C0029628,Other group therapy
+1586,94.62,C0204597,Alcohol detoxification
+1587,94.65,C0025516,Drug detoxification
+1588,94.76,,
+1589,941.10,C0273941,"Erythema [first degree] of face and head, unspecified site"
+1590,943.21,C0161167,"Blisters, epidermal loss [second degree] of forearm"
+1591,944.20,C0433361,"Blisters, epidermal loss [second degree] of hand, unspecified site"
+1592,948.00,C0161328,"Burn [any degree] involving less than 10 percent of body surface with third degree burn, less than 10 percent or unspecified"
+1593,952.01,C0161417,C1-C4 level with complete lesion of spinal cord
+1594,952.03,C0161419,C1-C4 level with central cord syndrome
+1595,955.1,C0161457,Injury to median nerve
+1596,955.3,C0161459,Injury to radial nerve
+1597,955.5,C0161461,"Injury to cutaneous sensory nerve, upper limb"
+1598,955.6,C0161462,"Injury to digital nerve, upper limb"
+1599,957.1,C0434291,Injury to other specified nerve(s)
+1600,958.4,C0036986,Traumatic shock
+1601,96.04,C0021932,Insertion of endotracheal tube
+1602,96.05,C0178095,Other intubation of respiratory tract
+1603,96.07,C0178097,Insertion of other (naso-)gastric tube
+1604,96.09,C0178099,Insertion of rectal tube
+1605,96.27,C0198793,Manual reduction of hernia
+1606,96.38,C0199901,Removal of impacted feces
+1607,96.54,C0011417,"Dental scaling, polishing, and debridement"
+1608,96.56,C0178119,Other lavage of bronchus and trachea
+1609,96.57,C0189634,Irrigation of vascular catheter
+1610,96.59,C0178121,Other irrigation of wound
+1611,96.6,C0014329,Enteral infusion of concentrated nutritional substances
+1612,96.71,C2349744,Continuous invasive mechanical ventilation for less than 96 consecutive hours
+1613,96.72,C2349745,Continuous invasive mechanical ventilation for 96 consecutive hours or more
+1614,965.00,C0161540,"Poisoning by opium (alkaloids), unspecified"
+1615,97.00,,
+1616,97.001GP,,
+1617,97.003GO,,
+1618,97.02,C0192461,Replacement of gastrostomy tube
+1619,97.11,C0178130,Replacement of cast on upper limb
+1620,97.110GO,,
+1621,97.110GP,,
+1622,97.112GO,,
+1623,97.112GP,,
+1624,97.116GP,,
+1625,97.2,C0178136,Other nonoperative replacement
+1626,97.23,C0204816,Replacement of tracheostomy tube
+1627,97.53,C0178156,Removal of tube from large intestine or appendix
+1628,97.535GO,,
+1629,97.55,C0178157,"Removal of T-tube, other bile duct tube, or liver tube"
+1630,97.62,C0194258,Removal of ureterostomy tube and ureteral catheter
+1631,97.82,C0405803,Removal of peritoneal drainage device
+1632,98.51,C0178189,"Extracorporeal shockwave lithotripsy [ESWL] of the kidney, ureter and/or bladder"
+1633,99.04,C0178192,Transfusion of packed cells
+1634,99.05,C0086818,Transfusion of platelets
+1635,99.07,C0040694,Transfusion of other serum
+1636,99.10,C0795784,Injection or infusion of thrombolytic agent
+1637,99.15,C0030548,Parenteral infusion of concentrated nutritional substances
+1638,99.17,C0199782,Injection of insulin
+1639,99.18,C0178196,Injection or infusion of electrolytes
+1640,99.19,C0199795,Injection of anticoagulant
+1641,99.20,C0795785,Injection or infusion of platelet inhibitor
+1642,99.21,C0199779,Injection of antibiotic
+1643,99.22,C0178198,Injection of other anti-infective
+1644,99.23,C1261311,Injection of steroid
+1645,99.25,C0178200,Injection or infusion of cancer chemotherapeutic substance
+1646,99.26,C0199783,Injection of tranquilizer
+1647,99.28,C0376103,Injection or infusion of biological response modifier [BRM] as an antineoplastic agent
+1648,99.29,C0178197,Injection or infusion of other therapeutic or prophylactic substance
+1649,99.36,C0199806,Administration of diphtheria toxoid
+1650,99.38,C0199807,Administration of tetanus toxoid
+1651,99.52,C0042200,Prophylactic vaccination against influenza
+1652,99.55,C0033467,Prophylactic administration of vaccine against other diseases
+1653,99.60,C0007203,"Cardiopulmonary resuscitation, not otherwise specified"
+1654,99.61,C0199550,Atrial cardioversion
+1655,99.62,C0029605,Other electric countershock of heart
+1656,99.71,C0032113,Therapeutic plasmapheresis
+1657,99.77,C1135463,Application or administration of an adhesion barrier substance
+1658,991.1,C0161736,Frostbite of hand
+1659,991.2,C0161737,Frostbite of foot
+1660,991.3,C0016737,Frostbite of other and unspecified sites
+1661,991.6,C0020672,Hypothermia
+1662,995.90,C0242966,"Systemic inflammatory response syndrome, unspecified"
+1663,995.91,C0036690,Sepsis
+1664,995.92,C1719672,Severe sepsis
+1665,996.01,C0161759,Mechanical complication due to cardiac pacemaker (electrode)
+1666,996.02,C0161760,Mechanical complication due to heart valve prosthesis
+1667,996.1,C0161763,"Mechanical complication of other vascular device, implant, and graft"
+1668,996.2,C0274338,"Mechanical complication of nervous system device, implant, and graft"
+1669,996.4,C0161770,"Mechanical complication of internal orthopedic device, implant, and graft"
+1670,996.51,C0274354,Mechanical complication due to corneal graft
+1671,996.53,C0274356,Mechanical complication due to ocular lens prosthesis
+1672,996.59,C0302412,"Mechanical complication due to other implant and internal device, not elsewhere classified"
+1673,996.61,C0161779,"Infection and inflammatory reaction due to cardiac device, implant, and graft"
+1674,996.62,C0161780,"Infection and inflammatory reaction due to other vascular device, implant, and graft"
+1675,996.64,C0161782,Infection and inflammatory reaction due to indwelling urinary catheter
+1676,996.66,C0161784,Infection and inflammatory reaction due to internal joint prosthesis
+1677,996.67,C0161785,"Infection and inflammatory reaction due to other internal orthopedic device, implant, and graft"
+1678,996.69,C0161786,"Infection and inflammatory reaction due to other internal prosthetic device, implant, and graft"
+1679,996.72,C0161790,"Other complications due to other cardiac device, implant, and graft"
+1680,996.73,C0161791,"Other complications due to renal dialysis device, implant, and graft"
+1681,996.74,C0161792,"Other complications due to other vascular device, implant, and graft"
+1682,996.78,C0161796,"Other complications due to other internal orthopedic device, implant, and graft"
+1683,996.81,C1261281,Complications of transplanted kidney
+1684,996.83,C0340529,Complications of transplanted heart
+1685,997.02,C0375722,Iatrogenic cerebrovascular infarction or hemorrhage
+1686,997.1,C0549147,"Cardiac complications, not elsewhere classified"
+1687,997.3,C0729250,"Respiratory complications, not elsewhere classified"
+1688,997.4,C0161819,Digestive system complications
+1689,997.49,C3161134,Other digestive system complications
+1690,997.5,C0595943,"Urinary complications, not elsewhere classified"
+1691,997.60,C0161821,Unspecified complication of amputation stump
+1692,997.69,C2891341,Other amputation stump complication
+1693,998.11,C0375725,Hemorrhage complicating a procedure
+1694,998.12,C0375726,Hematoma complicating a procedure
+1695,998.2,C0161829,"Accidental puncture or laceration during a procedure, not elsewhere classified"
+1696,998.3,C0259768,Disruption of wound
+1697,998.59,C0375729,Other postoperative infection
+1698,998.82,C0375731,Cataract fragments in eye following cataract surgery
+1699,998.89,C0161834,Other specified complications of procedures not elsewhere classified
+1700,999.3,C0302427,"Other infection due to medical care, not elsewhere classified"
+1701,E849.0,C0000929,Home accidents
+1702,E888,C0261619,Other and unspecified accidental fall
+1703,E920.1,C0261715,Accidents caused by other powered hand tools
+1704,E958.8,C0261974,Suicide and self-inflicted injury by other specified means
+1705,G0.00,,
+1706,J0.17,,
+1707,V01.6,C0260346,Contact with or exposure to venereal diseases
+1708,V03.81,C0375765,"Other specified vaccinations against hemophilus influenza, type B [Hib]"
+1709,V03.82,C0375766,Other specified vaccinations against streptococcus pneumoniae [pneumococcus]
+1710,V04.8,C1260454,Need for prophylactic vaccination and inoculation against other viral diseases
+1711,V04.81,C1260452,Need for prophylactic vaccination and inoculation against influenza
+1712,V06.5,C0375771,Need for prophylactic vaccination and inoculation against tetanus-diphtheria [Td] (DT)
+1713,V06.6,C0375772,Need for prophylactic vaccination and inoculation against streptococcus pneumoniae [pneumococcus] and influenza
+1714,V08,C0476550,Asymptomatic human immunodeficiency virus [HIV] infection status
+1715,V10.02,C0260407,Personal history of malignant neoplasm of other and unspecified oral cavity and pharynx
+1716,V10.05,C0260410,Personal history of malignant neoplasm of large intestine
+1717,V10.09,C0260413,Personal history of malignant neoplasm of other gastrointestinal tract
+1718,V10.11,C0260415,Personal history of malignant neoplasm of bronchus and lung
+1719,V10.46,C0260429,Personal history of malignant neoplasm of prostate
+1720,V10.49,C0260431,Personal history of malignant neoplasm of other male genital organs
+1721,V10.51,C0260434,Personal history of malignant neoplasm of bladder
+1722,V10.79,C0349403,Personal history of other lymphatic and hematopoietic neoplasms
+1723,V11.3,C0260460,Personal history of alcoholism
+1724,V12.51,C0375800,Personal history of venous thrombosis and embolism
+1725,V12.54,C1955570,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits"
+1726,V12.59,C0375802,Personal history of other diseases of circulatory system
+1727,V12.6,C0260470,Personal history of diseases of respiratory system
+1728,V12.71,C0375803,Personal history of peptic ulcer disease
+1729,V12.72,C0375804,Personal history of colonic polyps
+1730,V14.0,C0260484,Personal history of allergy to penicillin
+1731,V14.2,C0260486,Personal history of allergy to sulfonamides
+1732,V14.6,C0260490,Personal history of allergy to analgesic agent
+1733,V14.8,C0260492,Personal history of allergy to other specified medicinal agents
+1734,V15.0,C0877841,"Personal history of allergy, other than to medicinal agents, presenting hazards to health"
+1735,V15.08,C0878713,Allergy to radiographic dye
+1736,V15.3,C0260497,"Personal history of irradiation, presenting hazards to health"
+1737,V15.81,C0260503,"Personal history of noncompliance with medical treatment, presenting hazards to health"
+1738,V15.82,C0040335,Personal history of tobacco use
+1739,V17.3,C0260520,Family history of ischemic heart disease
+1740,V17.4,C1963706,Family history of other cardiovascular diseases
+1741,V42.0,C0677491,Kidney replaced by transplant
+1742,V42.1,C0018812,Heart replaced by transplant
+1743,V42.2,C0677631,Heart valve replaced by transplant
+1744,V42.7,C0023908,Liver replaced by transplant
+1745,V43.1,C0033825,Lens replaced by other means
+1746,V43.2,C0260674,Heart replaced by other means
+1747,V43.3,C0260675,Heart valve replaced by other means
+1748,V43.64,C0850128,Hip joint replacement
+1749,V43.65,C0375841,Knee joint replacement
+1750,V44.0,C0260682,Tracheostomy status
+1751,V44.1,C0260683,Gastrostomy status
+1752,V44.3,C0260685,Colostomy status
+1753,V45.01,C2240369,Cardiac pacemaker in situ
+1754,V45.02,C2733619,Automatic implantable cardiac defibrillator in situ
+1755,V45.09,C0375848,Other specified cardiac device in situ
+1756,V45.1,C0260694,Postsurgical renal dialysis status
+1757,V45.11,C0481496,Renal dialysis status
+1758,V45.81,C0032811,Aortocoronary bypass status
+1759,V45.82,C0375852,Percutaneous transluminal coronary angioplasty status
+1760,V45.89,C0260698,Other postprocedural status
+1761,V46.1,C1321831,Dependence on respirator [Ventilator]
+1762,V46.11,C1455974,"Dependence on respirator, status"
+1763,V49.72,C1955594,Other toe(s) amputation status
+1764,V49.73,C1955595,Foot amputation status
+1765,V49.76,C0376125,Above knee amputation status
+1766,V53.31,C0260749,Fitting and adjustment of cardiac pacemaker
+1767,V53.32,C0375861,Fitting and adjustment of automatic implantable cardiac defibrillator
+1768,V54.8,C0260756,Other orthopedic aftercare
+1769,V55.0,C0260760,Attention to tracheostomy
+1770,V57.1,C0007235,Care involving other physical therapy
+1771,V58.0,C0260778,Encounter for radiotherapy
+1772,V58.1,C0476658,Encounter for antineoplastic chemotherapy and immunotherapy
+1773,V58.3,C1719694,Attention to dressings and sutures
+1774,V58.49,C0375868,Other specified aftercare following surgery
+1775,V58.61,C2911178,Long-term (current) use of anticoagulants
+1776,V58.69,C0375871,Long-term (current) use of other medications
+1777,V58.73,C1135303,"Aftercare following surgery of the circulatory system, NEC"
+1778,V58.81,C0375873,Fitting and adjustment of vascular catheter
+1779,V62.84,C0424000,Suicidal ideation
+1780,V65.2,C0496703,Person feigning illness
+1781,V67.09,C0878736,"Follow-up examination, following other surgery"
+1782,V70.7,C0949168,Examination of participant in clinical trial
+1783,V72.6,C0260877,Laboratory examination
+1784,V72.81,C0375894,Pre-operative cardiovascular examination
+1785,V72.82,C0375895,Pre-operative respiratory examination
+1786,V72.83,C0375896,Other specified pre-operative examination
+1787,V72.84,C0375897,"Pre-operative examination, unspecified"
+1788,V76.41,C0260917,Screening for malignant neoplasms of rectum
+1789,V76.44,C0699916,Screening for malignant neoplasms of prostate
+1790,V76.49,C0877843,Special screening for malignant neoplasms of other sites
+1791,V81.5,C0260959,Screening for nephropathy
