@@ -29,3 +29,9 @@ The code does the following:
 ## FinalResult.csv
 - The original file with CUI codes
 
+# Contributors
+- Wejdan Bagais
+- Naren Durbha
+
+# GitHub Link
+- https://github.com/wbagais/UMLS_mapping
